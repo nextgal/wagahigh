@@ -1,0 +1,272 @@
+(const) %[
+  "list" => (const) [
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "",
+      "file" => "(.*)_[a-zA-Z]+_\\d\\d\\d\\d*$",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "__match__",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "NONAME",
+      "color" => void,
+      "config" => "ETC",
+      "file" => "VOICE%s%03d",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "default",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "かおるこ",
+      "file" => "KAO",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "かおるこ",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "アーシェ",
+      "file" => "ASH",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "アーシェ",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "兎亜",
+      "file" => "TOA",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "兎亜",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "未尋",
+      "file" => "MIH",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "未尋",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "千歳",
+      "file" => "CHI",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "千歳",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "縁",
+      "file" => "YUK",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "縁",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "奏恋",
+      "file" => "KAR",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "奏恋",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "虎太郎",
+      "file" => "KOT",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "虎太郎",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "金次郎",
+      "file" => "KIN",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "金次郎",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "雅人",
+      "file" => "MAS",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "雅人",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB女",
+      "file" => "ROU",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "ルーシェ",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB男",
+      "file" => "SAI",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "才",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB女",
+      "file" => "TUB",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "つばめ",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB女",
+      "file" => "MAMA",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "アーシェの母親",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB女",
+      "file" => "MOBW",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "mob女",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB男",
+      "file" => "MOBM",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "mob男",
+      "per" => 100
+    ],
+    (const) %[
+      "10" => 44,
+      "alias" => "",
+      "color" => void,
+      "config" => "MOB他",
+      "file" => "MOBO",
+      "level" => (const) [
+        10,
+        44
+      ],
+      "name" => "mob他",
+      "per" => 100
+    ]
+  ],
+  "map" => (const) %[
+    "__match__" => 0,
+    "default" => 1,
+    "mob他" => 18,
+    "mob女" => 16,
+    "mob男" => 17,
+    "かおるこ" => 2,
+    "つばめ" => 14,
+    "アーシェ" => 3,
+    "アーシェの母親" => 15,
+    "ルーシェ" => 12,
+    "兎亜" => 4,
+    "千歳" => 6,
+    "奏恋" => 8,
+    "才" => 13,
+    "未尋" => 5,
+    "縁" => 7,
+    "虎太郎" => 9,
+    "金次郎" => 10,
+    "雅人" => 11
+  ]
+]
