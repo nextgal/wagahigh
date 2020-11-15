@@ -99,7 +99,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -170,7 +170,7 @@
                 void,
                 (const) [
                   "zpos",
-                  233.3333333333333712289459072053432464599609375
+                  233.333333000000010315488907508552074432373046875
                 ],
                 void,
                 (const) [
@@ -235,7 +235,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -335,7 +335,7 @@
           (const) [
             (const) [
               "new",
-              "兎亜",
+              "兔亞",
               "character"
             ],
             (const) [
@@ -480,7 +480,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -510,7 +510,7 @@
               ],
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ]
@@ -526,7 +526,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -620,7 +620,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -634,7 +634,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -787,7 +787,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -814,7 +814,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -835,7 +835,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -929,7 +929,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -943,7 +943,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1087,7 +1087,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1114,7 +1114,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -1135,7 +1135,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1229,7 +1229,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1243,7 +1243,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1387,7 +1387,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1414,7 +1414,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -1435,7 +1435,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1529,7 +1529,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1543,7 +1543,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1602,7 +1602,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1746,7 +1746,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1773,7 +1773,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -1794,7 +1794,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1888,7 +1888,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1902,7 +1902,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1961,7 +1961,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2114,7 +2114,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2141,7 +2141,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -2162,7 +2162,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2256,7 +2256,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2270,7 +2270,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -2414,7 +2414,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2441,7 +2441,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -2462,7 +2462,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2556,7 +2556,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2570,7 +2570,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -2714,7 +2714,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2741,7 +2741,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -2762,7 +2762,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2856,7 +2856,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2870,7 +2870,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3014,7 +3014,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3041,7 +3041,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -3062,7 +3062,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3156,7 +3156,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3170,7 +3170,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3314,7 +3314,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3341,7 +3341,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -3362,7 +3362,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3456,7 +3456,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3470,7 +3470,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3539,7 +3539,7 @@
                   ]
                 ]
               ],
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 3
             ]
           ]
@@ -3622,7 +3622,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3697,7 +3697,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3711,7 +3711,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -3737,7 +3737,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 2,
               "type" => void
             ],
@@ -3778,7 +3778,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3853,7 +3853,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3867,7 +3867,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -3892,7 +3892,7 @@
               "action" => (const) [
                 (const) [
                   "zpos",
-                  233.3333333333333712289459072053432464599609375
+                  233.333333000000010315488907508552074432373046875
                 ],
                 void,
                 (const) [
@@ -3957,7 +3957,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -4051,7 +4051,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4065,7 +4065,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -4147,7 +4147,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -4253,7 +4253,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4267,7 +4267,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -4438,7 +4438,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4468,7 +4468,7 @@
               ],
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ]
@@ -4484,7 +4484,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -4601,7 +4601,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4611,7 +4611,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -4776,7 +4776,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4803,7 +4803,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -4824,7 +4824,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -4941,7 +4941,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4951,7 +4951,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5010,7 +5010,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5172,7 +5172,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5199,7 +5199,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -5220,7 +5220,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -5337,7 +5337,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5347,7 +5347,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5491,7 +5491,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5518,7 +5518,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -5539,7 +5539,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -5656,7 +5656,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5666,7 +5666,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5810,7 +5810,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5837,7 +5837,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -5858,7 +5858,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -5975,7 +5975,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5985,7 +5985,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -6147,7 +6147,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6174,7 +6174,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -6195,7 +6195,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -6312,7 +6312,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6322,7 +6322,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -6466,7 +6466,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6493,7 +6493,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -6514,7 +6514,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -6631,7 +6631,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6641,7 +6641,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -6791,7 +6791,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6818,7 +6818,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -6839,7 +6839,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -6956,7 +6956,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6966,7 +6966,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -7110,7 +7110,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7137,7 +7137,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -7158,7 +7158,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -7275,7 +7275,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7285,7 +7285,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -7429,7 +7429,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7456,7 +7456,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -7477,7 +7477,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -7594,7 +7594,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7604,7 +7604,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -7663,7 +7663,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7807,7 +7807,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7834,7 +7834,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -7855,7 +7855,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -7972,7 +7972,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7982,7 +7982,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -8126,7 +8126,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -8153,7 +8153,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -8174,7 +8174,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -8291,7 +8291,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -8301,7 +8301,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -8445,7 +8445,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -8472,7 +8472,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -8493,7 +8493,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -8610,7 +8610,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -8620,7 +8620,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -8689,7 +8689,7 @@
                   ]
                 ]
               ],
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 3
             ]
           ]
@@ -8726,7 +8726,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -8888,7 +8888,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -8915,7 +8915,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -8936,7 +8936,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -9053,7 +9053,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9063,7 +9063,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -9207,7 +9207,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -9234,7 +9234,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -9255,7 +9255,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -9372,7 +9372,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9382,7 +9382,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -9439,7 +9439,7 @@
                   ]
                 ]
               ],
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 3
             ]
           ]
@@ -9570,7 +9570,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -9597,7 +9597,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -9618,7 +9618,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -9735,7 +9735,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9754,7 +9754,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -9898,7 +9898,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -9925,7 +9925,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -9946,7 +9946,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -10063,7 +10063,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10082,7 +10082,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -10254,7 +10254,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -10281,7 +10281,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -10302,7 +10302,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -10419,7 +10419,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10429,7 +10429,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -10476,7 +10476,7 @@
                   1
                 ]
               ],
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 3
             ]
           ]
@@ -10607,7 +10607,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -10634,7 +10634,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -10655,7 +10655,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -10772,7 +10772,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10786,7 +10786,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -10845,7 +10845,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -11025,7 +11025,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -11052,7 +11052,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -11073,7 +11073,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -11190,7 +11190,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11204,7 +11204,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11348,7 +11348,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -11375,7 +11375,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -11396,7 +11396,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -11513,7 +11513,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11527,7 +11527,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11586,7 +11586,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -11881,7 +11881,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -11908,7 +11908,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "兎亜"
+                "name" => "兔亞"
               ]
             ]
           ],
@@ -11929,7 +11929,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -12046,7 +12046,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12060,7 +12060,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12119,7 +12119,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -12293,7 +12293,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -12380,7 +12380,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12394,7 +12394,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -12415,7 +12415,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "兎亜",
+              "name" => "兔亞",
               "showmode" => 2,
               "type" => void
             ],
@@ -12458,7 +12458,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -12545,7 +12545,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12559,7 +12559,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -12585,7 +12585,7 @@
         (const) [
           void,
           void,
-          "それは体育館の片隅で、屍のように横たわる兎亜の姿だった。",
+          "在體育館的角落裏，兔亞仿佛像屍體一樣躺臥著。",
           void,
           1232,
           (const) %[
@@ -12597,7 +12597,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12651,7 +12651,7 @@
         (const) [
           "幸樹",
           void,
-          "「おいおいどうした兎亜。後夜祭だぜ、もっとアゲてかなきゃ。チェケラッ」",
+          "「餵餵怎麽了兔亞，是後夜祭欸，情緒高昂點啊，切克鬧」",
           void,
           1728,
           (const) %[
@@ -12663,7 +12663,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12715,12 +12715,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「なにその鬱陶しいテンション……」",
+          "「你那煩人的樣子是想怎樣啊……」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0292"
@@ -12736,7 +12736,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12830,7 +12830,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12844,7 +12844,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12870,7 +12870,7 @@
         (const) [
           void,
           void,
-          "文化祭の空気にあてられて、サル化してみたんだが……妹からは大不評だ。",
+          "受文化祭氛圍的影響後，我試著猴子化了一下……但卻從妹妹那裏成功得到了差評。",
           void,
           1216,
           (const) %[
@@ -12882,7 +12882,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12964,7 +12964,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12978,7 +12978,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13004,7 +13004,7 @@
         (const) [
           "幸樹",
           void,
-          "「お前が地面と同化しそうなくらいべたーっとしてるから心配になったんだよ」",
+          "「我看你貼在地上感覺都快和地面同化了，所以擔心一下你啊」",
           void,
           1728,
           (const) %[
@@ -13016,7 +13016,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13098,7 +13098,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13112,7 +13112,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13136,12 +13136,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「ああ……いいよね地面。何もしなくても許されるし」",
+          "「啊啊……變成地板也不錯啊。能隨便摸魚」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0293"
@@ -13157,7 +13157,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13251,7 +13251,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13265,7 +13265,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13291,7 +13291,7 @@
         (const) [
           "幸樹",
           void,
-          "「同意しかねる」",
+          "「這點我可不贊同」",
           void,
           1728,
           (const) %[
@@ -13303,7 +13303,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13385,7 +13385,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13399,7 +13399,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13423,12 +13423,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「お兄ちゃん、わたしはもうダメだよ。体力が底をついた」",
+          "「老哥，我已經不行了。體力槽已經空了」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0294"
@@ -13444,7 +13444,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13538,7 +13538,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13552,7 +13552,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13578,7 +13578,7 @@
         (const) [
           "幸樹",
           void,
-          "「……まあ、文化祭の準備が始まってからこっち、兎亜にしてはよく動いた方だな」",
+          "「……嘛，從文化祭的准備開始，對兔亞你來說的確是幹活幹的夠多了啊」",
           void,
           1728,
           (const) %[
@@ -13590,7 +13590,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13672,7 +13672,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13686,7 +13686,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13710,12 +13710,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「でしょ？　ここから１か月はクールダウン挟まないと、こわれちゃう」",
+          "「是吧？  接下來的1個月不放松一下的話，我就要壞掉了」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0295"
@@ -13731,7 +13731,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13825,7 +13825,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13839,7 +13839,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13865,7 +13865,7 @@
         (const) [
           "幸樹",
           void,
-          "「ずいぶん長い冷却期間ですこと」",
+          "「你這冷卻時間還真長」",
           void,
           1728,
           (const) %[
@@ -13877,7 +13877,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13959,7 +13959,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13973,7 +13973,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13997,12 +13997,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「この天才的頭脳が失われるのは、世界にとって大きな痛手だよ。パソコンだって、寿命が縮む一番の原因は熱にあるんだよ」",
+          "「失去我這天才的頭腦，對于世界而言也是個沈重的打擊啊。空調壽命減少的最大原因就是溫度啊」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0296"
@@ -14018,7 +14018,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14112,7 +14112,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14126,7 +14126,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14152,7 +14152,7 @@
         (const) [
           "幸樹",
           void,
-          "「ああ夏場はクーラー併用しないとＣＰＵが大変なことになるな、っておい」",
+          "「啊啊夏天要是不開著冷氣的話CPU那邊也挺麻煩的，啊不對」",
           void,
           1216,
           (const) %[
@@ -14164,7 +14164,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14246,7 +14246,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14260,7 +14260,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14286,7 +14286,7 @@
         (const) [
           "幸樹",
           void,
-          "「つまり、もう後夜祭ではしゃぐ元気もないってことか」",
+          "「那也就是說，你現在已經連在後夜祭玩一玩的力氣都沒了嗎」",
           void,
           1728,
           (const) %[
@@ -14298,7 +14298,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14380,7 +14380,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14394,7 +14394,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14418,12 +14418,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「うん。体育館まで歩いてきたので、スタミナが完全に切れた」",
+          "「恩。因爲是走到體育館這裏的，我的體力完全耗盡了」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0297"
@@ -14439,7 +14439,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14533,7 +14533,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14547,7 +14547,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14573,7 +14573,7 @@
         (const) [
           "幸樹",
           void,
-          "「回復までどれくらいかかる？」",
+          "「直到恢複要花多久？」",
           void,
           1728,
           (const) %[
@@ -14585,7 +14585,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14667,7 +14667,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14681,7 +14681,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14705,12 +14705,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「３分で１ポイント」",
+          "「3分鍾恢複1點體力」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0298"
@@ -14726,7 +14726,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14820,7 +14820,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14834,7 +14834,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14860,7 +14860,7 @@
         (const) [
           "幸樹",
           void,
-          "「なら課金アイテム『お兄ちゃん』を使ってやろう。もっと静かなところまで運んでやる」",
+          "「那麽就使用個氪金道具“哥哥”吧。我帶你去個更安靜的地方」",
           void,
           1728,
           (const) %[
@@ -14872,7 +14872,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14954,7 +14954,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14968,7 +14968,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14992,12 +14992,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「助かった、廃課金勢でよかった」",
+          "「幫大忙了，還好我是敗家型氪金玩家」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0299"
@@ -15013,7 +15013,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15107,7 +15107,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15121,7 +15121,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15147,7 +15147,7 @@
         (const) [
           "幸樹",
           void,
-          "「あんまり突っ込みすぎるなよ？」",
+          "「你可別氪金過頭了啊？」",
           void,
           1728,
           (const) %[
@@ -15159,7 +15159,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15241,7 +15241,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15255,7 +15255,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15279,12 +15279,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「業界の経済はわたしが回している」",
+          "「業界的經濟就由我來支撐」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0300"
@@ -15300,7 +15300,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15394,7 +15394,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15408,7 +15408,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15434,7 +15434,7 @@
         (const) [
           "幸樹",
           void,
-          "「いやまあ、お前の収入で家計は大助かりだけどさ……」",
+          "「不過嘛，確實在家計方面你的收入是幫了大忙啊……」",
           void,
           1728,
           (const) %[
@@ -15446,7 +15446,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15528,7 +15528,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15542,7 +15542,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15566,12 +15566,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「適当に作ったアプリで稼げるなんて、便利な世の中になったもんだよ」",
+          "「隨便做個app就能賺錢什麽的，這世界還真是變便利了呢」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0301"
@@ -15587,7 +15587,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15681,7 +15681,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15695,7 +15695,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15721,7 +15721,7 @@
         (const) [
           "幸樹",
           void,
-          "「ほんとにな。印税生活万歳だ」",
+          "「對啊，版稅萬歲」",
           void,
           192,
           (const) %[
@@ -15733,7 +15733,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15815,7 +15815,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15829,7 +15829,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15855,7 +15855,7 @@
         (const) [
           void,
           void,
-          "もう動く気の一切ない兎亜をおぶって、中庭に来た。",
+          "我背著完全不想動的兔亞，來到了中庭。",
           void,
           208,
           (const) %[
@@ -15867,7 +15867,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15961,7 +15961,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15975,7 +15975,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -15989,7 +15989,7 @@
         (const) [
           void,
           void,
-          "適当なベンチに、並んで腰かける。",
+          "隨便找了個椅子放下後，我們肩並肩坐了下來。",
           void,
           1728,
           (const) %[
@@ -16001,7 +16001,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16095,7 +16095,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16109,7 +16109,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -16121,12 +16121,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「まさか外だとは」",
+          "「沒想到是在外面」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0302"
@@ -16142,7 +16142,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -16259,7 +16259,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16269,7 +16269,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16295,7 +16295,7 @@
         (const) [
           "幸樹",
           void,
-          "「いいじゃん、日も落ちてるし、風も涼しくて」",
+          "「不挺好的嗎，太陽也落山了，風也挺涼快的」",
           void,
           1728,
           (const) %[
@@ -16307,7 +16307,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -16412,7 +16412,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16422,7 +16422,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16446,12 +16446,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「もっと新しい発見がある場所がいい。剣と魔法と札束が勝敗を分けるような素敵ワールドとか」",
+          "「我想去新大陸啊，比如靠劍與魔法與錢決定勝負的美妙世界之類的」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0303"
@@ -16467,7 +16467,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -16584,7 +16584,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16594,7 +16594,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16620,7 +16620,7 @@
         (const) [
           "幸樹",
           void,
-          "「それはネット上にしかない……」",
+          "「那東西只存在于網絡裏好吧……」",
           void,
           192,
           (const) %[
@@ -16632,7 +16632,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -16737,7 +16737,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16747,7 +16747,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16773,7 +16773,7 @@
         (const) [
           void,
           void,
-          "中庭には他に誰もいない。",
+          "中庭除我們誰都不在。",
           void,
           192,
           (const) %[
@@ -16785,7 +16785,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -16890,7 +16890,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16900,7 +16900,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16926,7 +16926,7 @@
         (const) [
           void,
           void,
-          "きっとみんな体育館に集まってるんだろう。",
+          "大家肯定都集中在了體育館吧。",
           void,
           1728,
           (const) %[
@@ -16938,7 +16938,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17043,7 +17043,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17053,7 +17053,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17077,12 +17077,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「そう言えば、お店のアンケート結果、見た？」",
+          "「話說，店鋪的問卷調查結果，看了沒？」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0304"
@@ -17098,7 +17098,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17215,7 +17215,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17225,7 +17225,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17251,7 +17251,7 @@
         (const) [
           "幸樹",
           void,
-          "「あ、見てないや。どんな感じ？」",
+          "「啊，沒看。怎麽樣？」",
           void,
           1728,
           (const) %[
@@ -17263,7 +17263,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17368,7 +17368,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17378,7 +17378,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17402,12 +17402,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「『衣装の際どさがたまらない』とか、『普段はクールで凛とした副会長が恥ずかしそうにメイドをしている姿に嗜虐心が刺激されました』とか」",
+          "「有些比如“衣服真是下流的不得了”啊，“平時冷靜凜然的副會長害羞地裝著女仆裝的樣子超刺激人的嗜虐心”啊什麽的」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0305"
@@ -17423,7 +17423,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17540,7 +17540,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17550,7 +17550,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17576,7 +17576,7 @@
         (const) [
           "幸樹",
           void,
-          "「ド変態が混じってるな……」",
+          "「有個大hentai在裏面……」",
           void,
           1728,
           (const) %[
@@ -17588,7 +17588,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17693,7 +17693,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17703,7 +17703,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17727,12 +17727,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「他にも、『見えそうで見えなかったのでパンツの色が気になります』とか」",
+          "「其他還有“因爲有絕對領域所以非常在意內褲的顔色”什麽的」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0306"
@@ -17748,7 +17748,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -17865,7 +17865,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17875,7 +17875,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17901,7 +17901,7 @@
         (const) [
           "幸樹",
           void,
-          "「セクハラアンケートばっかりだな」",
+          "「這調查問卷幾乎都是性騷擾啊」",
           void,
           192,
           (const) %[
@@ -17913,7 +17913,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18018,7 +18018,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18028,7 +18028,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18054,7 +18054,7 @@
         (const) [
           void,
           void,
-          "一度ゲシュタポばりに大規模な粛清を行う必要があるかもしれん。",
+          "看來也許得來個類似光澱局那樣的鐵血整治啊。",
           void,
           1216,
           (const) %[
@@ -18066,7 +18066,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18171,7 +18171,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18181,7 +18181,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18207,7 +18207,7 @@
         (const) [
           "幸樹",
           void,
-          "「兎亜については何か無かったのか？」",
+          "「有沒有寫什麽關于兔亞你的？」",
           void,
           1728,
           (const) %[
@@ -18219,7 +18219,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18324,7 +18324,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18334,7 +18334,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18358,12 +18358,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「『気だるげだし、何か頼むと嫌がるので、新たなメイドの可能性を感じました』」",
+          "「『看起來懶洋洋的樣子，拜托些什麽還會被拒絕，從她身上能感受到新品種女仆的可能性』」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0307"
@@ -18379,7 +18379,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18496,7 +18496,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18506,7 +18506,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18532,7 +18532,7 @@
         (const) [
           "幸樹",
           void,
-          "「褒められてるのかクレームなのか判断しかねる」",
+          "「這是在誇獎還是在抱怨有點難判斷啊」",
           void,
           1728,
           (const) %[
@@ -18544,7 +18544,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18649,7 +18649,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18659,7 +18659,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18683,12 +18683,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「やっぱりわたくしに労働は似合いませんわ、お兄さま」",
+          "「果然勞動不適合我啊，兄長大人」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0308"
@@ -18704,7 +18704,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18821,7 +18821,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18831,7 +18831,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -18857,7 +18857,7 @@
         (const) [
           "幸樹",
           void,
-          "「そうですわね。バイト始めても１日ともたないでしょう、妹よ」",
+          "「是啊，即使開始打工怕是一天都撐不住吧，我的老妹喲」",
           void,
           1728,
           (const) %[
@@ -18869,7 +18869,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -18974,7 +18974,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18984,7 +18984,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19008,12 +19008,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……わかんないじゃん」",
+          "「……誰知道呢」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0309"
@@ -19029,7 +19029,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19146,7 +19146,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19156,7 +19156,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19182,7 +19182,7 @@
         (const) [
           "幸樹",
           void,
-          "「えー。同意したのに」",
+          "「诶。明明同意過的吧」",
           void,
           1728,
           (const) %[
@@ -19194,7 +19194,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19299,7 +19299,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19309,7 +19309,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19333,12 +19333,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「そこは『兎亜はやればできる子だよ』って、褒めるところでしょ」",
+          "「這裏應該說“兔亞是想做就能做到的孩子哦”來誇獎我吧」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0310"
@@ -19354,7 +19354,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19471,7 +19471,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19481,7 +19481,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19507,7 +19507,7 @@
         (const) [
           "幸樹",
           void,
-          "「ヤレバデキルコダヨ」",
+          "「你，是，想，做，就，能，做，得，到，的，孩，子（無感情捧讀中）」",
           void,
           1728,
           (const) %[
@@ -19519,7 +19519,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19624,7 +19624,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19634,7 +19634,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19658,12 +19658,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「気持ちがこもってない。お兄ちゃん、わたしは褒められて伸びるタイプの典型だよ？」",
+          "「這話說得沒帶感情啊，哥哥，我可是那種被誇就能上天的類型哦？」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0311"
@@ -19679,7 +19679,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19796,7 +19796,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19806,7 +19806,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19832,7 +19832,7 @@
         (const) [
           "幸樹",
           void,
-          "「現状に満足して、向上心失うタイプだと思う」",
+          "「我覺得你應該是滿足現狀，沒有上進心的類型吧」",
           void,
           1728,
           (const) %[
@@ -19844,7 +19844,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -19949,7 +19949,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19959,7 +19959,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -19983,12 +19983,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「まぁ、褒められるってことは最低水準守ってるわけだし、それ以上頑張る必要はないよね」",
+          "「嘛，被誇獎就說明我至少還保留著最低水准的能力，所以沒有必要更努力啊」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0312"
@@ -20004,7 +20004,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20121,7 +20121,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20131,7 +20131,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20157,7 +20157,7 @@
         (const) [
           "幸樹",
           void,
-          "「ほらみろ」",
+          "「對吧你看」",
           void,
           1728,
           (const) %[
@@ -20169,7 +20169,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20274,7 +20274,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20284,7 +20284,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20308,12 +20308,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「だいたい、バイトなんてしなくたって生活に困ってないもん」",
+          "「話說回來，就算不打工，生活方面也不會出問題啊」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0313"
@@ -20329,7 +20329,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20446,7 +20446,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20456,7 +20456,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20482,7 +20482,7 @@
         (const) [
           "幸樹",
           void,
-          "「わからんぞ？　明日にはＩＴ関連が滅亡して、昭和くらいの生活水準に戻るかもしれない」",
+          "「這不一定的哦？  說不定明天和IT有關的東西都瞬間消亡，然後生活水准就回到昭和時代了」",
           void,
           1728,
           (const) %[
@@ -20494,7 +20494,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20599,7 +20599,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20609,7 +20609,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20633,12 +20633,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「えー……そうなったらお兄ちゃんに養ってもらうから、いいや」",
+          "「诶……那樣就讓哥哥養我好了，沒事」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0314"
@@ -20654,7 +20654,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20771,7 +20771,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20781,7 +20781,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20807,7 +20807,7 @@
         (const) [
           "幸樹",
           void,
-          "「ですよねー」",
+          "「說得也是啊」",
           void,
           192,
           (const) %[
@@ -20819,7 +20819,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -20924,7 +20924,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -20934,7 +20934,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -20960,7 +20960,7 @@
         (const) [
           void,
           void,
-          "それからしばらく、２人で黙って涼む。",
+          "在那之後，我們兩人默默地乘著涼。",
           void,
           192,
           (const) %[
@@ -20972,7 +20972,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21077,7 +21077,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21087,7 +21087,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21113,7 +21113,7 @@
         (const) [
           void,
           void,
-          "急に沈黙が訪れても全く気まずくならないのが、兄妹のいいところだ。",
+          "即便突然沈默也不會感到尴尬，這正是兄妹關系的好處。",
           void,
           1728,
           (const) %[
@@ -21125,7 +21125,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21230,7 +21230,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21240,7 +21240,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21264,12 +21264,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
           "「…………」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0315"
@@ -21285,7 +21285,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21402,7 +21402,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21412,7 +21412,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21450,7 +21450,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21555,7 +21555,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21565,7 +21565,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21589,12 +21589,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……ふわぁ」",
+          "「……呼哇」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0316"
@@ -21610,7 +21610,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21727,7 +21727,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21746,7 +21746,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21772,7 +21772,7 @@
         (const) [
           void,
           void,
-          "大きな欠伸をする兎亜。",
+          "兔亞打了個大哈欠。",
           void,
           1216,
           (const) %[
@@ -21784,7 +21784,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -21889,7 +21889,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -21908,7 +21908,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -21934,7 +21934,7 @@
         (const) [
           "幸樹",
           void,
-          "「眠いのか？」",
+          "「困了？」",
           void,
           1728,
           (const) %[
@@ -21946,7 +21946,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22051,7 +22051,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22070,7 +22070,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22094,12 +22094,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……うん。そろそろ活動限界」",
+          "「……恩，差不多到極限活動時間了」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0317"
@@ -22115,7 +22115,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22232,7 +22232,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22251,7 +22251,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22277,7 +22277,7 @@
         (const) [
           "幸樹",
           void,
-          "「保健室でも行くか？　ベッドがあるぞ」",
+          "「去保健室嗎？  有床哦」",
           void,
           1728,
           (const) %[
@@ -22289,7 +22289,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22394,7 +22394,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22413,7 +22413,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22437,12 +22437,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……いい。それだと病人みたいだし」",
+          "「……不用。那樣就好像病人一樣」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0318"
@@ -22458,7 +22458,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22575,7 +22575,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22594,7 +22594,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22620,7 +22620,7 @@
         (const) [
           "幸樹",
           void,
-          "「じゃあ……」",
+          "「那……」",
           void,
           192,
           (const) %[
@@ -22632,7 +22632,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22737,7 +22737,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22756,7 +22756,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22782,7 +22782,7 @@
         (const) [
           void,
           void,
-          "生徒会室にでも連れていくか、と思っていたら。",
+          "把她帶到學生會室去吧，剛那麽想。",
           void,
           1728,
           (const) %[
@@ -22794,7 +22794,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -22899,7 +22899,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -22918,7 +22918,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -22942,12 +22942,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……（ぱたん）」",
+          "「……（啪嗒）」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0319"
@@ -22963,7 +22963,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23080,7 +23080,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23094,7 +23094,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23120,7 +23120,7 @@
         (const) [
           void,
           void,
-          "兎亜が、俺の膝の上へと倒れ込んできた。",
+          "兔亞就直接倒在了我的膝蓋上。",
           void,
           1216,
           (const) %[
@@ -23132,7 +23132,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23237,7 +23237,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23251,7 +23251,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23277,7 +23277,7 @@
         (const) [
           "幸樹",
           void,
-          "「なんだ、膝枕して欲しかったのか」",
+          "「怎麽了，想要膝枕嗎」",
           void,
           1728,
           (const) %[
@@ -23289,7 +23289,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23394,7 +23394,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23408,7 +23408,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23432,12 +23432,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「……ゴツゴツしてる。でも、ないよりはマシかな」",
+          "「……有點硬，但總比沒有好」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0320"
@@ -23453,7 +23453,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23570,7 +23570,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23584,7 +23584,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23610,7 +23610,7 @@
         (const) [
           "幸樹",
           void,
-          "「そりゃどうも」",
+          "「那還真是多謝誇獎了」",
           void,
           192,
           (const) %[
@@ -23622,7 +23622,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23727,7 +23727,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23741,7 +23741,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23767,7 +23767,7 @@
         (const) [
           void,
           void,
-          "兎亜を膝枕するのなんか、いつ以来だろう。",
+          "給兔亞當膝枕，最近一次是什麽時候來著。",
           void,
           192,
           (const) %[
@@ -23779,7 +23779,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -23884,7 +23884,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -23898,7 +23898,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -23924,7 +23924,7 @@
         (const) [
           void,
           void,
-          "子どもの頃はよくやってた気がするが、さすがに最近はなかったなぁ。",
+          "雖然記得小時候經常這樣做，但最近就完全沒有了。",
           void,
           192,
           (const) %[
@@ -23936,7 +23936,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24041,7 +24041,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24055,7 +24055,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24081,7 +24081,7 @@
         (const) [
           void,
           void,
-          "膝の上にある兎亜の頭を、ぽふぽふとなでる。",
+          "我慢慢地撫摸著躺在我膝蓋上的兔亞的頭。",
           void,
           192,
           (const) %[
@@ -24093,7 +24093,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24198,7 +24198,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24212,7 +24212,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24238,7 +24238,7 @@
         (const) [
           void,
           void,
-          "さらさらの髪が、指の間を抜けていく。",
+          "柔順的頭發從指間滑過。",
           void,
           1728,
           (const) %[
@@ -24250,7 +24250,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24355,7 +24355,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24369,7 +24369,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24393,12 +24393,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「ねえ、お兄ちゃん、さっきの話なんだけどさ……」",
+          "「呐，哥哥，關于剛才的事情…….」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0321"
@@ -24414,7 +24414,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24531,7 +24531,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24545,7 +24545,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24571,7 +24571,7 @@
         (const) [
           "幸樹",
           void,
-          "「ああ……アンケートの話か？」",
+          "「啊啊……問卷調查的事情？」",
           void,
           1728,
           (const) %[
@@ -24583,7 +24583,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24688,7 +24688,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24702,7 +24702,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24726,12 +24726,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「ううん、じゃなくて……印税生活の話」",
+          "「不，不是那個……版稅生活的事情」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0322"
@@ -24747,7 +24747,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -24864,7 +24864,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -24878,7 +24878,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -24904,7 +24904,7 @@
         (const) [
           "幸樹",
           void,
-          "「あ、そっちね」",
+          "「啊，那個啊」",
           void,
           1728,
           (const) %[
@@ -24916,7 +24916,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25021,7 +25021,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25035,7 +25035,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25059,12 +25059,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「わたしたちってさ、２人揃って、とってもインドアな兄妹だよね」",
+          "「我們啊，兄妹2人不都非常宅嗎」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0323"
@@ -25080,7 +25080,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25197,7 +25197,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25211,7 +25211,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25237,7 +25237,7 @@
         (const) [
           "幸樹",
           void,
-          "「ん？　あぁまあ、そう……なるかな」",
+          "「嗯？　啊不過，確實……會變成那樣吧」",
           void,
           192,
           (const) %[
@@ -25249,7 +25249,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25354,7 +25354,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25368,7 +25368,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25394,7 +25394,7 @@
         (const) [
           void,
           void,
-          "兎亜はともかく、俺もマンガ原稿とかは家でやるしな。",
+          "先不論兔亞，我漫畫原稿什麽的要在家裏做啊。",
           void,
           192,
           (const) %[
@@ -25406,7 +25406,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25511,7 +25511,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25525,7 +25525,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25551,7 +25551,7 @@
         (const) [
           void,
           void,
-          "昔はスポーツ少年だったけど、小説を書き始めてからはめっきりインドア派だ。",
+          "以前雖然是個喜歡運動的少年，但打開了小說新世界的大門後突然就變成了宅。",
           void,
           1728,
           (const) %[
@@ -25563,7 +25563,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25668,7 +25668,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25682,7 +25682,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25706,12 +25706,12 @@
           ]
         ],
         (const) [
-          "兎亜",
+          "兔亞",
           void,
-          "「それじゃあ、きっと世界一長く、一緒にいられるね……」",
+          "「那麽，我們呆在一起的時間肯定是世界最長的吧……」",
           (const) [
             (const) %[
-              "name" => "兎亜",
+              "name" => "兔亞",
               "pan" => 0,
               "type" => 0,
               "voice" => "COM_TOA_0324"
@@ -25727,7 +25727,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -25844,7 +25844,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -25858,7 +25858,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -25884,7 +25884,7 @@
         (const) [
           "幸樹",
           void,
-          "「そうだな……」",
+          "「是啊……」",
           void,
           192,
           (const) %[
@@ -25896,7 +25896,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26001,7 +26001,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26015,7 +26015,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26041,7 +26041,7 @@
         (const) [
           void,
           void,
-          "眠そうに呟く兎亜。",
+          "兔亞昏昏欲睡地嘟囔道。",
           void,
           192,
           (const) %[
@@ -26053,7 +26053,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26158,7 +26158,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26172,7 +26172,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26198,7 +26198,7 @@
         (const) [
           void,
           void,
-          "それは、混濁した意識の中で最後に絞り出した言葉のようで、兎亜はすぅすぅと寝息を立て始めた。",
+          "那好像是朦胧的意識中擠出的最後一句話，然後兔亞便zzz地開始打起了呼噜。",
           void,
           192,
           (const) %[
@@ -26210,7 +26210,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26315,7 +26315,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26329,7 +26329,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26355,7 +26355,7 @@
         (const) [
           void,
           void,
-          "その頬をそっとなでると、むず痒そうに身じろぎをする。",
+          "摸了下她的臉頰，她便感覺癢的樣子把身體轉了過去。",
           void,
           192,
           (const) %[
@@ -26367,7 +26367,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26472,7 +26472,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26486,7 +26486,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26512,7 +26512,7 @@
         (const) [
           void,
           void,
-          "寝ることに集中したいのか、手を握られて、動きを封じられてしまった。",
+          "估計是想睡了，兔亞握住我的手，封住了我的動作。",
           void,
           1216,
           (const) %[
@@ -26524,7 +26524,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26629,7 +26629,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26643,7 +26643,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26669,7 +26669,7 @@
         (const) [
           "幸樹",
           void,
-          "「……ふわ」",
+          "「……呼啊」",
           void,
           192,
           (const) %[
@@ -26681,7 +26681,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26786,7 +26786,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26800,7 +26800,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26826,7 +26826,7 @@
         (const) [
           void,
           void,
-          "その姿を見ていたら、俺にも眠気が襲ってきた。",
+          "看到她這個樣子，我也有些困了。",
           void,
           192,
           (const) %[
@@ -26838,7 +26838,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -26943,7 +26943,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -26957,7 +26957,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -26983,7 +26983,7 @@
         (const) [
           void,
           void,
-          "後夜祭は見れなかったけど、ま、いいか。",
+          "雖然沒能看到後夜祭，嘛，算了。",
           void,
           192,
           (const) %[
@@ -26995,7 +26995,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -27100,7 +27100,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -27114,7 +27114,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -27140,7 +27140,7 @@
         (const) [
           void,
           void,
-          "なんだかんだ言って、充実した様子の兎亜の寝顔を見ながら、俺も目を閉じた。",
+          "雖然說了兔亞那麽多，但看著兔亞那滿足的睡顔，我也閉上了眼睛。",
           void,
           192,
           (const) %[
@@ -27152,7 +27152,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "zoomy",
@@ -27257,7 +27257,7 @@
                 ]
               ],
               (const) [
-                "兎亜",
+                "兔亞",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -27271,7 +27271,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "兎亜",
+                  "name" => "兔亞",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -27295,7 +27295,7 @@
           ]
         ]
       ],
-      "title" => "微睡みの後夜祭"
+      "title" => "昏昏欲睡的後夜祭"
     ]
   ]
 ]

@@ -127,7 +127,7 @@
         ]
       ],
       "spCount" => 3,
-      "title" => "デスフラッガー桜木"
+      "title" => "死亡插旗手櫻木"
     ],
     (const) %[
       "firstLine" => 3,
@@ -174,7 +174,7 @@
             ],
             (const) [
               "new",
-              "アーシェ",
+              "亞瑟",
               "character"
             ],
             (const) %[
@@ -204,7 +204,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -225,7 +225,7 @@
                 void,
                 (const) [
                   "zpos",
-                  233.3333333333333712289459072053432464599609375
+                  233.333333000000010315488907508552074432373046875
                 ],
                 void,
                 (const) [
@@ -292,7 +292,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -326,7 +326,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -336,7 +336,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -580,7 +580,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -607,7 +607,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -636,7 +636,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -718,7 +718,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -728,7 +728,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -787,7 +787,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -868,7 +868,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -938,7 +938,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -948,7 +948,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -967,7 +967,7 @@
           "update",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "showmode" => 2
             ],
             (const) %[
@@ -1020,7 +1020,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1090,7 +1090,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1100,7 +1100,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -1154,7 +1154,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1220,7 +1220,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1290,7 +1290,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1300,7 +1300,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1408,7 +1408,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1435,7 +1435,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -1464,7 +1464,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1546,7 +1546,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1556,7 +1556,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1700,7 +1700,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -1727,7 +1727,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -1756,7 +1756,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -1838,7 +1838,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -1848,7 +1848,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -1992,7 +1992,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2019,7 +2019,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -2048,7 +2048,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2130,7 +2130,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2140,7 +2140,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -2293,7 +2293,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2320,7 +2320,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -2349,7 +2349,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2431,7 +2431,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2441,7 +2441,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -2500,7 +2500,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2662,7 +2662,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2689,7 +2689,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -2718,7 +2718,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -2800,7 +2800,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -2810,7 +2810,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -2869,7 +2869,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2928,7 +2928,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -2985,7 +2985,7 @@
                   ]
                 ]
               ],
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "showmode" => 3
             ]
           ]
@@ -3107,7 +3107,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3134,7 +3134,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -3163,7 +3163,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3245,7 +3245,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3263,7 +3263,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3416,7 +3416,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3443,7 +3443,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -3472,7 +3472,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3554,7 +3554,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3572,7 +3572,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3631,7 +3631,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3775,7 +3775,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -3802,7 +3802,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -3831,7 +3831,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -3913,7 +3913,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -3931,7 +3931,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -3990,7 +3990,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4049,7 +4049,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4114,7 +4114,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4145,7 +4145,7 @@
               ],
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -4174,7 +4174,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -4256,7 +4256,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4274,7 +4274,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -4339,7 +4339,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4398,7 +4398,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4542,7 +4542,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4569,7 +4569,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -4598,7 +4598,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -4680,7 +4680,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -4698,7 +4698,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -4757,7 +4757,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4901,7 +4901,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -4928,7 +4928,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -4957,7 +4957,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -5039,7 +5039,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5057,7 +5057,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5116,7 +5116,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5260,7 +5260,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5287,7 +5287,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -5316,7 +5316,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -5398,7 +5398,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5416,7 +5416,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5560,7 +5560,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5587,7 +5587,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -5616,7 +5616,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -5698,7 +5698,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5716,7 +5716,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5766,7 +5766,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -5793,7 +5793,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -5822,7 +5822,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -5892,7 +5892,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -5910,7 +5910,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -5975,7 +5975,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6041,7 +6041,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -6111,7 +6111,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6129,7 +6129,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -6276,7 +6276,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6345,7 +6345,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6446,7 +6446,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6512,7 +6512,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -6582,7 +6582,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6596,7 +6596,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -6828,7 +6828,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -6855,7 +6855,7 @@
               void,
               (const) %[
                 "mode" => 1,
-                "name" => "アーシェ"
+                "name" => "亞瑟"
               ]
             ]
           ],
@@ -6884,7 +6884,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -6966,7 +6966,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -6980,7 +6980,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -7045,7 +7045,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7131,7 +7131,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "showmode" => 2,
               "type" => void
             ],
@@ -7180,7 +7180,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -7255,7 +7255,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7269,7 +7269,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -7302,7 +7302,7 @@
                 ],
                 (const) [
                   "zpos",
-                  233.3333333333333712289459072053432464599609375
+                  233.333333000000010315488907508552074432373046875
                 ],
                 void,
                 (const) [
@@ -7375,7 +7375,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -7469,7 +7469,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7483,7 +7483,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -7591,7 +7591,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "xpos",
@@ -7704,7 +7704,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7718,17 +7718,17 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -7755,7 +7755,7 @@
           (const) [
             (const) [
               "new",
-              "縁",
+              "緣",
               "character"
             ],
             (const) %[
@@ -7772,7 +7772,7 @@
               ],
               "class" => "character",
               "link" => void,
-              "name" => "縁",
+              "name" => "緣",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -7830,7 +7830,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "xpos",
@@ -7943,7 +7943,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -7957,17 +7957,17 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -8108,7 +8108,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "縁",
+              "name" => "緣",
               "redraw" => (const) %[
                 "disp" => 2,
                 "imageFile" => (const) %[
@@ -8163,7 +8163,7 @@
                   ]
                 ]
               ],
-              "name" => "縁",
+              "name" => "緣",
               "showmode" => 3
             ]
           ]
@@ -8214,7 +8214,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -8326,7 +8326,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -8341,7 +8341,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -8391,11 +8391,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -8499,7 +8499,7 @@
             (const) %[
               "class" => "character",
               "link" => void,
-              "name" => "縁",
+              "name" => "緣",
               "showmode" => 2,
               "type" => void
             ],
@@ -8546,7 +8546,7 @@
           ],
           "stop",
           (const) [
-            "縁"
+            "緣"
           ],
           "wait",
           (const) %[
@@ -8585,7 +8585,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -8697,7 +8697,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -8712,7 +8712,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -8762,11 +8762,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -8928,7 +8928,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -9021,7 +9021,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9036,7 +9036,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9086,12 +9086,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9256,7 +9256,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -9366,7 +9366,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9381,7 +9381,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9431,12 +9431,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9512,7 +9512,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -9622,7 +9622,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9637,7 +9637,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9687,12 +9687,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -9803,7 +9803,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -9936,7 +9936,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -9951,7 +9951,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10001,12 +10001,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10069,7 +10069,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -10202,7 +10202,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10217,7 +10217,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10267,12 +10267,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10356,7 +10356,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -10482,7 +10482,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10497,7 +10497,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10547,12 +10547,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -10609,12 +10609,12 @@
       "spCount" => 96,
       "texts" => (const) [
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「おはよう」",
+          "「早上好」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0134"
@@ -10638,7 +10638,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -10720,7 +10720,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10730,7 +10730,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -10756,7 +10756,7 @@
         (const) [
           "幸樹",
           void,
-          "「おはよ。……って、朝っぱらからわざわざ人の教室の前で、俺の登校を待ってたのか？」",
+          "「早......你一大早就特意跑到我教室門口，等我上學嗎？」",
           void,
           1728,
           (const) %[
@@ -10776,7 +10776,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -10846,7 +10846,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -10856,7 +10856,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -10880,12 +10880,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「漢字を確認しながらだから、そう無駄な時間でもなかったわ」",
+          "「反正我還一邊在複習漢字，所以也不算浪費時間」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0135"
@@ -10909,7 +10909,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -10991,7 +10991,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11001,7 +11001,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11027,7 +11027,7 @@
         (const) [
           void,
           void,
-          "見せつけるような桜木の手の中には、受験生ご用達のリングで束ねたわかりやすい単語帳が。",
+          "櫻木手中顯擺著的毫無疑問是應試生所用的小單詞本。",
           void,
           192,
           (const) %[
@@ -11047,7 +11047,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11117,7 +11117,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11127,7 +11127,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -11141,7 +11141,7 @@
         (const) [
           void,
           void,
-          "しかもこのご時勢に手作りの様相だ。",
+          "而且還是與時代格格不入的純手工制品。",
           void,
           192,
           (const) %[
@@ -11161,7 +11161,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11231,7 +11231,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11241,7 +11241,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -11255,7 +11255,7 @@
         (const) [
           void,
           void,
-          "やる気もすごいし、桜木が単語帳を持っているミスマッチさも何とも言えない。案外メガネなんかも似合いそうだけどな。",
+          "櫻木幹勁滿滿的樣子，和手上拿著單詞本雖說有種說不出的違和感，但她意外地挺適合眼鏡呢。",
           void,
           1216,
           (const) %[
@@ -11275,7 +11275,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11345,7 +11345,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11355,7 +11355,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -11369,7 +11369,7 @@
         (const) [
           "幸樹",
           void,
-          "「それで？　テスト直前の貴重な追い込みの時間を割いてまで、どうしてこんなところに？」",
+          "「所以？ 你還抽出考試前這麽寶貴的時間，來這種地方？」",
           void,
           1728,
           (const) %[
@@ -11389,7 +11389,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11459,7 +11459,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11469,7 +11469,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11493,12 +11493,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「ひとつはあなたにお礼が言いたくて」",
+          "「一是想跟你道個謝」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0136"
@@ -11522,7 +11522,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11604,7 +11604,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11614,7 +11614,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11640,7 +11640,7 @@
         (const) [
           "幸樹",
           void,
-          "「いいよ今さら。お礼ならサルに言ってくれ」",
+          "「沒關系啦事到如今，要謝的話去謝猴子吧」",
           void,
           1728,
           (const) %[
@@ -11660,7 +11660,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11730,7 +11730,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11740,7 +11740,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11764,12 +11764,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「沙流川くん？　なんで？」",
+          "「沙流川？　爲什麽？」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0137"
@@ -11793,7 +11793,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -11875,7 +11875,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -11885,7 +11885,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -11911,7 +11911,7 @@
         (const) [
           "幸樹",
           void,
-          "「それは俺にもわからない」",
+          "「我也不知道」",
           void,
           1728,
           (const) %[
@@ -11931,7 +11931,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12001,7 +12001,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12011,7 +12011,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12035,12 +12035,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「何なのよそれ……」",
+          "「那你說他幹啥……」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0138"
@@ -12064,7 +12064,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12146,7 +12146,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12156,7 +12156,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12182,7 +12182,7 @@
         (const) [
           void,
           void,
-          "強いて言えば、今さらお礼なんて聞きたくないからなんだけど。",
+          "非要說的話，是因爲事到如今，我不想聽什麽道謝的話了。",
           void,
           1216,
           (const) %[
@@ -12202,7 +12202,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12272,7 +12272,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12282,7 +12282,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12308,7 +12308,7 @@
         (const) [
           "幸樹",
           void,
-          "「お礼なら前も聞いた気がするぞ」",
+          "「感謝的話你好像已經說過了吧」",
           void,
           1728,
           (const) %[
@@ -12328,7 +12328,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12398,7 +12398,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12408,7 +12408,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12432,12 +12432,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「だとしてももう一度言わせて欲しいの」",
+          "「那我也要再說一次」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0139"
@@ -12461,7 +12461,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12543,7 +12543,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12553,7 +12553,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12579,7 +12579,7 @@
         (const) [
           void,
           void,
-          "おいおいこの言い分。",
+          "餵餵餵這個說辭。",
           void,
           192,
           (const) %[
@@ -12599,7 +12599,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12669,7 +12669,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12679,7 +12679,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12705,7 +12705,7 @@
         (const) [
           void,
           void,
-          "桜木のやつ、テスト勝負を挑んできた時から、まるで成長していない……",
+          "櫻木這家夥，從提出挑戰那時到現在，仿佛沒有任何成長啊……",
           void,
           192,
           (const) %[
@@ -12725,7 +12725,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12795,7 +12795,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12805,7 +12805,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12831,7 +12831,7 @@
         (const) [
           void,
           void,
-          "ま、だけどそれを苦笑して見れるんだから、別のどこかは変わったのかもしれないか。",
+          "不過，既然她能苦笑著面對那事，估計是什麽地方發生變化了吧。",
           void,
           1728,
           (const) %[
@@ -12851,7 +12851,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -12921,7 +12921,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -12931,7 +12931,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -12955,12 +12955,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「一度言ったなら、しつこくなっちゃうからこれだけ。ありがとね鳴海くん」",
+          "「如果已經說過一次了，再多說就很煩人了，所以我只最後再說一次。謝謝你，鳴海」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0140"
@@ -12984,7 +12984,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13066,7 +13066,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13084,7 +13084,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13110,7 +13110,7 @@
         (const) [
           "幸樹",
           void,
-          "「すでに充分しつこいよ」",
+          "「這早就說的夠多了啊」",
           void,
           1728,
           (const) %[
@@ -13130,7 +13130,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13200,7 +13200,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13218,7 +13218,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13242,12 +13242,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「返事は？」",
+          "「回答呢？」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0141"
@@ -13271,7 +13271,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13353,7 +13353,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13371,7 +13371,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13397,7 +13397,7 @@
         (const) [
           "幸樹",
           void,
-          "「しかと受け取った」",
+          "「我接受你的謝意」",
           void,
           1216,
           (const) %[
@@ -13417,7 +13417,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13487,7 +13487,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13505,7 +13505,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13531,7 +13531,7 @@
         (const) [
           "幸樹",
           void,
-          "「で、もうひとつは？　最初にひとつは、なんて言い方をしたんだから、ふたつ目もあるんだろ？」",
+          "「那麽，另一個呢？剛開始說了其一吧。所以還有其二沒錯吧？」",
           void,
           1728,
           (const) %[
@@ -13551,7 +13551,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13621,7 +13621,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13639,7 +13639,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13663,12 +13663,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「そうね。だけど必要なかったみたい」",
+          "「是啊。但是已經沒有說的必要了」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0142"
@@ -13692,7 +13692,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13774,7 +13774,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13792,7 +13792,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13818,7 +13818,7 @@
         (const) [
           "幸樹",
           void,
-          "「？　どういう意味だ？」",
+          "「？　啥意思？」",
           void,
           1728,
           (const) %[
@@ -13838,7 +13838,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -13908,7 +13908,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -13926,7 +13926,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -13950,12 +13950,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「あのご褒美だからね。わたしに気を遣って、わざと負けたりしないでって釘を刺しに来たんだけど」",
+          "「那個獎勵啊。我是來提醒你不要爲了我故意放水的」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0143"
@@ -13979,7 +13979,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14061,7 +14061,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14079,7 +14079,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14103,12 +14103,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「ふふ、鳴海くん、目の下のクマすごいんだもん」",
+          "「哼哼，因爲鳴海的黑眼圈很重呢」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0144"
@@ -14132,7 +14132,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14214,7 +14214,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14232,7 +14232,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14258,7 +14258,7 @@
         (const) [
           "幸樹",
           void,
-          "「マジで？　ファンデとやらで隠してくれるか？」",
+          "「真嗎？　能用粉底之類的幫我遮一下嗎？」",
           void,
           1728,
           (const) %[
@@ -14278,7 +14278,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14348,7 +14348,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14366,7 +14366,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14390,12 +14390,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「甘えないの。ってかあなたそういうの必要ないでしょ」",
+          "「想得美。話說你也沒那個必要吧」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0145"
@@ -14419,7 +14419,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14501,7 +14501,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14519,7 +14519,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14545,7 +14545,7 @@
         (const) [
           void,
           void,
-          "身だしなみに気を遣わない系男子だと思われていた！",
+          "被當成那種不修邊幅的男生了！",
           void,
           1728,
           (const) %[
@@ -14565,7 +14565,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14635,7 +14635,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14653,7 +14653,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14677,12 +14677,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「ありがとね。わたしのために」",
+          "「謝謝了啊，爲了我」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0146"
@@ -14706,7 +14706,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14788,7 +14788,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14806,7 +14806,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14832,7 +14832,7 @@
         (const) [
           "幸樹",
           void,
-          "「……いや」",
+          "「……沒什麽」",
           void,
           1728,
           (const) %[
@@ -14852,7 +14852,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -14922,7 +14922,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -14940,7 +14940,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -14964,12 +14964,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「あと最後にもうひとつ」",
+          "「還有最後一件事」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0147"
@@ -14993,7 +14993,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15075,7 +15075,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15093,7 +15093,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15119,7 +15119,7 @@
         (const) [
           "幸樹",
           void,
-          "「まだあるのかよ！？」",
+          "「還有啊！？」",
           void,
           1728,
           (const) %[
@@ -15139,7 +15139,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15209,7 +15209,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15227,7 +15227,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15251,12 +15251,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「これが最後」",
+          "「最後一件」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0148"
@@ -15280,7 +15280,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15362,7 +15362,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15380,7 +15380,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15406,7 +15406,7 @@
         (const) [
           void,
           void,
-          "そこで桜木はぴっと姿勢を正すと、",
+          "然後櫻木突然擺正了姿勢",
           void,
           1728,
           (const) %[
@@ -15426,7 +15426,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15496,7 +15496,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15514,7 +15514,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15538,12 +15538,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「例え鳴海くんがどんな状態でも、全力だろうが手を抜こうが関係ない。今回はわたしが勝たせてもらうわ！」",
+          "「不管鳴海是什麽狀態，是盡全力，還是放水，都沒關系。這次是贏的只會是我！」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0149"
@@ -15567,7 +15567,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15649,7 +15649,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15667,7 +15667,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15693,7 +15693,7 @@
         (const) [
           "幸樹",
           void,
-          "「……悲しい」",
+          "「……難受」",
           void,
           1728,
           (const) %[
@@ -15713,7 +15713,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15783,7 +15783,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15801,7 +15801,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15825,12 +15825,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「何が？」",
+          "「什麽啊？」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0150"
@@ -15854,7 +15854,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -15936,7 +15936,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -15950,7 +15950,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -15976,7 +15976,7 @@
         (const) [
           "幸樹",
           void,
-          "「どうしてそんなに積極的に死亡フラグを立てに行くんだお前は」",
+          "「爲什麽你立死亡flag立得那麽熟練啊」",
           void,
           1728,
           (const) %[
@@ -15996,7 +15996,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16066,7 +16066,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16080,7 +16080,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16104,12 +16104,12 @@
           ]
         ],
         (const) [
-          "アーシェ",
+          "亞瑟",
           void,
-          "「……そのお約束とかテンプレとやらを薙ぎ倒してわたしが勝つわ」",
+          "「……我要打破那所謂的約定俗成及套路，然後取得勝利」",
           (const) [
             (const) %[
-              "name" => "アーシェ",
+              "name" => "亞瑟",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_ASH_0151"
@@ -16133,7 +16133,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16215,7 +16215,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16229,7 +16229,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16255,7 +16255,7 @@
         (const) [
           void,
           void,
-          "ちょっと気にしているようだった。",
+          "好像還是有點在意的樣子。",
           void,
           192,
           (const) %[
@@ -16275,7 +16275,7 @@
                     ],
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16345,7 +16345,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16359,7 +16359,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -16385,7 +16385,7 @@
         (const) [
           void,
           void,
-          "裏返しのまま配られた問題用紙を前に、今朝の桜木の言葉を思い出す。",
+          "試卷倒扣在桌上，我回想了起今早櫻木說的話。",
           void,
           208,
           (const) %[
@@ -16397,7 +16397,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16491,7 +16491,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16505,7 +16505,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -16519,7 +16519,7 @@
         (const) [
           void,
           void,
-          "『ありがとね。わたしのために』……か。",
+          "『謝謝你，爲了我』……嗎。",
           void,
           192,
           (const) %[
@@ -16531,7 +16531,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16625,7 +16625,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16639,7 +16639,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -16653,7 +16653,7 @@
         (const) [
           void,
           void,
-          "それは違う。違うんだよ桜木。",
+          "不，並不是啊櫻木。",
           void,
           192,
           (const) %[
@@ -16665,7 +16665,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16759,7 +16759,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16773,7 +16773,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -16787,7 +16787,7 @@
         (const) [
           void,
           void,
-          "そしてきっと、ご褒美のためでもない。",
+          "但是也肯定，不是爲了那個獎勵。",
           void,
           192,
           (const) %[
@@ -16799,7 +16799,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -16893,7 +16893,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -16907,7 +16907,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -16921,7 +16921,7 @@
         (const) [
           void,
           void,
-          "ただ、あの人が俺が勝つのを望んでくれた。",
+          "只是，那個人希望我贏。",
           void,
           192,
           (const) %[
@@ -16933,7 +16933,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -17027,7 +17027,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17041,7 +17041,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17055,7 +17055,7 @@
         (const) [
           void,
           void,
-          "それだけのことで、集中できないテスト勉強を俺がどこまでやれるのか試してみたかっただけだと思う。",
+          "只是爲了這種事，就想著試試無法集中精神複習的我到底能做到什麽程度。",
           void,
           192,
           (const) %[
@@ -17067,7 +17067,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -17161,7 +17161,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17175,7 +17175,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17189,7 +17189,7 @@
         (const) [
           void,
           void,
-          "……ちと眠いけど結構頑張れたのは満足だったりして。",
+          "……或許她看到我略有睡意，但已努力了的姿態，就已經滿足了吧。",
           void,
           1728,
           (const) %[
@@ -17201,7 +17201,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -17295,7 +17295,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17309,7 +17309,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17321,12 +17321,12 @@
           ]
         ],
         (const) [
-          "縁",
+          "緣",
           void,
-          "「よし、始め！」",
+          "「好，開始！」",
           (const) [
             (const) %[
-              "name" => "縁",
+              "name" => "緣",
               "pan" => 0,
               "type" => 0,
               "voice" => "02_YUK_0008"
@@ -17342,7 +17342,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ],
                     (const) [
                       "xpos",
@@ -17466,7 +17466,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17480,13 +17480,13 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17500,7 +17500,7 @@
                     ]
                   ],
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "redraw" => (const) %[
                     "disp" => 2,
                     "imageFile" => (const) %[
@@ -17526,7 +17526,7 @@
         (const) [
           void,
           void,
-          "チャイムと同時の号令で、周りが一斉に問題用紙をめくる。",
+          "和鈴聲同時的號令聲中，周圍的所有人都同時把試卷翻了過來。",
           void,
           192,
           (const) %[
@@ -17538,7 +17538,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -17650,7 +17650,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17665,7 +17665,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17715,11 +17715,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17766,7 +17766,7 @@
         (const) [
           void,
           void,
-          "いつも通りの現国の問題。",
+          "和往常一樣的國語題目。",
           void,
           192,
           (const) %[
@@ -17778,7 +17778,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -17890,7 +17890,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -17905,7 +17905,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -17955,11 +17955,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18006,7 +18006,7 @@
         (const) [
           void,
           void,
-          "なぜか今回は少し緊張するけど……自己満足だけで結果が伴わないのはみっともないからな。",
+          "不知爲何這次有些緊張……做了那般自我滿足的事卻沒有好結果什麽的太丟人了。",
           void,
           192,
           (const) %[
@@ -18018,7 +18018,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -18130,7 +18130,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18145,7 +18145,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18195,11 +18195,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18246,7 +18246,7 @@
         (const) [
           void,
           void,
-          "悪いな桜木、勝たせてもらうぜ。",
+          "對不起了櫻木，我贏定了。",
           void,
           192,
           (const) %[
@@ -18258,7 +18258,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -18370,7 +18370,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18385,7 +18385,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18435,11 +18435,11 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18486,7 +18486,7 @@
         (const) [
           void,
           void,
-          "後日、返却された現代国語のテスト結果は……",
+          "事後得到的國語考試結果……",
           void,
           192,
           (const) %[
@@ -18498,7 +18498,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -18591,7 +18591,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18606,7 +18606,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18656,12 +18656,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18708,7 +18708,7 @@
         (const) [
           void,
           void,
-          "鳴海幸樹　１００点",
+          "鳴海幸樹　１００點",
           void,
           192,
           (const) %[
@@ -18720,7 +18720,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -18813,7 +18813,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -18828,7 +18828,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18878,12 +18878,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -18930,7 +18930,7 @@
         (const) [
           void,
           void,
-          "桜木・Ｒ・アーシェ　９８点",
+          "櫻木・Ｒ・亞瑟　９８點",
           void,
           192,
           (const) %[
@@ -18942,7 +18942,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -19035,7 +19035,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19050,7 +19050,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19100,12 +19100,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19152,7 +19152,7 @@
         (const) [
           void,
           void,
-          "無事、桜木に勝利した。",
+          "毫無懸念地贏了櫻木。",
           void,
           192,
           (const) %[
@@ -19164,7 +19164,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -19257,7 +19257,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19272,7 +19272,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19322,12 +19322,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19374,7 +19374,7 @@
         (const) [
           void,
           void,
-          "ちなみに敗者の桜木の弁は以下の通り。",
+          "順便敗者櫻木留下來了這麽一句話。",
           void,
           192,
           (const) %[
@@ -19386,7 +19386,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -19479,7 +19479,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19494,7 +19494,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19544,12 +19544,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19596,7 +19596,7 @@
         (const) [
           void,
           void,
-          "「次はお約束とテンプレとやらも勉強するわ……」",
+          "「下次我會連約定俗成還有套路也一起學一遍的……」",
           void,
           192,
           (const) %[
@@ -19608,7 +19608,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -19701,7 +19701,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19716,7 +19716,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19766,12 +19766,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19818,7 +19818,7 @@
         (const) [
           void,
           void,
-          "おまえ本当に負けず嫌いな。",
+          "你還真是不認輸啊。",
           void,
           192,
           (const) %[
@@ -19830,7 +19830,7 @@
                   "action" => (const) [
                     (const) [
                       "zpos",
-                      233.3333333333333712289459072053432464599609375
+                      233.333333000000010315488907508552074432373046875
                     ]
                   ],
                   "class" => "stage",
@@ -19923,7 +19923,7 @@
                 ]
               ],
               (const) [
-                "アーシェ",
+                "亞瑟",
                 "character",
                 (const) %[
                   "action" => (const) [
@@ -19938,7 +19938,7 @@
                   ],
                   "class" => "character",
                   "link" => void,
-                  "name" => "アーシェ",
+                  "name" => "亞瑟",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -19988,12 +19988,12 @@
                 ]
               ],
               (const) [
-                "縁",
+                "緣",
                 "character",
                 (const) %[
                   "class" => "character",
                   "link" => void,
-                  "name" => "縁",
+                  "name" => "緣",
                   "showmode" => 0,
                   "type" => void
                 ]
@@ -20038,7 +20038,7 @@
           ]
         ]
       ],
-      "title" => "デスフラッガー桜木"
+      "title" => "死亡插旗手櫻木"
     ]
   ]
 ]

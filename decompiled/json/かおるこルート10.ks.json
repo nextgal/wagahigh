@@ -142,7 +142,7 @@
 				}
 			],
 			"spCount" : 3,
-			"title" : "\u30c7\u30b9\u30d5\u30e9\u30c3\u30ac\u30fc\u685c\u6728"
+			"title" : "\u6b7b\u4ea1\u63d2\u65d7\u624b\u6afb\u6728"
 		},
 		{
 			"firstLine" : 3,
@@ -194,7 +194,7 @@
 						],
 						[
 							"new",
-							"\u30a2\u30fc\u30b7\u30a7",
+							"\u4e9e\u745f",
 							"character"
 						],
 						{
@@ -225,7 +225,7 @@
 							],
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -250,7 +250,7 @@
 								null,
 								[
 									"zpos",
-									233.33333333333337
+									233.33333300000001
 								],
 								null,
 								[
@@ -322,7 +322,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -360,7 +360,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -371,7 +371,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -633,7 +633,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -665,7 +665,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -696,7 +696,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -786,7 +786,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -797,7 +797,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -864,7 +864,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -953,7 +953,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -1028,7 +1028,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -1039,7 +1039,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -1059,7 +1059,7 @@
 					"update",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"showmode" : 2
 						},
 						{
@@ -1116,7 +1116,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -1191,7 +1191,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -1202,7 +1202,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -1258,7 +1258,7 @@
 							],
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -1331,7 +1331,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -1406,7 +1406,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -1417,7 +1417,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -1534,7 +1534,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -1566,7 +1566,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -1597,7 +1597,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -1687,7 +1687,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -1698,7 +1698,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -1853,7 +1853,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -1885,7 +1885,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -1916,7 +1916,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -2006,7 +2006,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -2017,7 +2017,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -2172,7 +2172,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -2204,7 +2204,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -2235,7 +2235,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -2325,7 +2325,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -2336,7 +2336,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -2500,7 +2500,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -2532,7 +2532,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -2563,7 +2563,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -2653,7 +2653,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -2664,7 +2664,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -2731,7 +2731,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -2904,7 +2904,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -2936,7 +2936,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -2967,7 +2967,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -3057,7 +3057,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -3068,7 +3068,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -3135,7 +3135,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -3202,7 +3202,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -3264,7 +3264,7 @@
 									]
 								]
 							],
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"showmode" : 3
 						}
 					]
@@ -3393,7 +3393,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -3425,7 +3425,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -3456,7 +3456,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -3546,7 +3546,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -3565,7 +3565,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -3729,7 +3729,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -3761,7 +3761,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -3792,7 +3792,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -3882,7 +3882,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -3901,7 +3901,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -3968,7 +3968,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4123,7 +4123,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4155,7 +4155,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -4186,7 +4186,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -4276,7 +4276,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -4295,7 +4295,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -4362,7 +4362,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4429,7 +4429,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4502,7 +4502,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4538,7 +4538,7 @@
 							},
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -4569,7 +4569,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -4659,7 +4659,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -4678,7 +4678,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -4752,7 +4752,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4819,7 +4819,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -4974,7 +4974,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -5006,7 +5006,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -5037,7 +5037,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -5127,7 +5127,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -5146,7 +5146,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -5213,7 +5213,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -5368,7 +5368,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -5400,7 +5400,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -5431,7 +5431,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -5521,7 +5521,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -5540,7 +5540,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -5607,7 +5607,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -5762,7 +5762,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -5794,7 +5794,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -5825,7 +5825,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -5915,7 +5915,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -5934,7 +5934,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -6089,7 +6089,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -6121,7 +6121,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -6152,7 +6152,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -6242,7 +6242,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -6261,7 +6261,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -6316,7 +6316,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -6348,7 +6348,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -6379,7 +6379,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -6454,7 +6454,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -6473,7 +6473,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -6543,7 +6543,7 @@
 							],
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -6616,7 +6616,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -6691,7 +6691,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -6710,7 +6710,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -6870,7 +6870,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -6948,7 +6948,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -7056,7 +7056,7 @@
 							],
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -7129,7 +7129,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -7204,7 +7204,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -7219,7 +7219,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -7467,7 +7467,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -7499,7 +7499,7 @@
 							null,
 							{
 								"mode" : 1,
-								"name" : "\u30a2\u30fc\u30b7\u30a7"
+								"name" : "\u4e9e\u745f"
 							}
 						]
 					},
@@ -7530,7 +7530,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -7620,7 +7620,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -7635,7 +7635,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -7709,7 +7709,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -7801,7 +7801,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"showmode" : 2,
 							"type" : null
 						},
@@ -7853,7 +7853,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -7931,7 +7931,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -7946,7 +7946,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -7981,7 +7981,7 @@
 								],
 								[
 									"zpos",
-									233.33333333333337
+									233.33333300000001
 								],
 								null,
 								[
@@ -8060,7 +8060,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -8160,7 +8160,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -8175,7 +8175,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -8287,7 +8287,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										],
 										[
 											"xpos",
@@ -8406,7 +8406,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -8421,17 +8421,17 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -8461,7 +8461,7 @@
 					[
 						[
 							"new",
-							"\u7e01",
+							"\u7de3",
 							"character"
 						],
 						{
@@ -8479,7 +8479,7 @@
 							],
 							"class" : "character",
 							"link" : null,
-							"name" : "\u7e01",
+							"name" : "\u7de3",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -8543,7 +8543,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										],
 										[
 											"xpos",
@@ -8662,7 +8662,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -8677,17 +8677,17 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -8839,7 +8839,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u7e01",
+							"name" : "\u7de3",
 							"redraw" : 
 							{
 								"disp" : 2,
@@ -8899,7 +8899,7 @@
 									]
 								]
 							],
-							"name" : "\u7e01",
+							"name" : "\u7de3",
 							"showmode" : 3
 						}
 					]
@@ -8954,7 +8954,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -9072,7 +9072,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -9088,7 +9088,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -9138,11 +9138,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -9248,7 +9248,7 @@
 						{
 							"class" : "character",
 							"link" : null,
-							"name" : "\u7e01",
+							"name" : "\u7de3",
 							"showmode" : 2,
 							"type" : null
 						},
@@ -9299,7 +9299,7 @@
 					],
 					"stop",
 					[
-						"\u7e01"
+						"\u7de3"
 					],
 					"wait",
 					{
@@ -9341,7 +9341,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -9459,7 +9459,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -9475,7 +9475,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -9525,11 +9525,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -9697,7 +9697,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -9793,7 +9793,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -9809,7 +9809,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -9859,12 +9859,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10034,7 +10034,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -10149,7 +10149,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -10165,7 +10165,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10215,12 +10215,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10300,7 +10300,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -10415,7 +10415,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -10431,7 +10431,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10481,12 +10481,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10604,7 +10604,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -10745,7 +10745,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -10761,7 +10761,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10811,12 +10811,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -10882,7 +10882,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -11023,7 +11023,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -11039,7 +11039,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -11089,12 +11089,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -11182,7 +11182,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -11314,7 +11314,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -11330,7 +11330,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -11380,12 +11380,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -11445,12 +11445,12 @@
 			"texts" : 
 			[
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u304a\u306f\u3088\u3046\u300d",
+					"\u300c\u65e9\u4e0a\u597d\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0134"
@@ -11476,7 +11476,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -11566,7 +11566,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -11577,7 +11577,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -11607,7 +11607,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u304a\u306f\u3088\u3002\u2026\u2026\u3063\u3066\u3001\u671d\u3063\u3071\u3089\u304b\u3089\u308f\u3056\u308f\u3056\u4eba\u306e\u6559\u5ba4\u306e\u524d\u3067\u3001\u4ffa\u306e\u767b\u6821\u3092\u5f85\u3063\u3066\u305f\u306e\u304b\uff1f\u300d",
+					"\u300c\u65e9......\u4f60\u4e00\u5927\u65e9\u5c31\u7279\u610f\u8dd1\u5230\u6211\u6559\u5ba4\u9580\u53e3\uff0c\u7b49\u6211\u4e0a\u5b78\u55ce\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -11629,7 +11629,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -11704,7 +11704,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -11715,7 +11715,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -11743,12 +11743,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u6f22\u5b57\u3092\u78ba\u8a8d\u3057\u306a\u304c\u3089\u3060\u304b\u3089\u3001\u305d\u3046\u7121\u99c4\u306a\u6642\u9593\u3067\u3082\u306a\u304b\u3063\u305f\u308f\u300d",
+					"\u300c\u53cd\u6b63\u6211\u9084\u4e00\u908a\u5728\u8907\u7fd2\u6f22\u5b57\uff0c\u6240\u4ee5\u4e5f\u4e0d\u7b97\u6d6a\u8cbb\u6642\u9593\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0135"
@@ -11774,7 +11774,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -11864,7 +11864,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -11875,7 +11875,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -11905,7 +11905,7 @@
 				[
 					null,
 					null,
-					"\u898b\u305b\u3064\u3051\u308b\u3088\u3046\u306a\u685c\u6728\u306e\u624b\u306e\u4e2d\u306b\u306f\u3001\u53d7\u9a13\u751f\u3054\u7528\u9054\u306e\u30ea\u30f3\u30b0\u3067\u675f\u306d\u305f\u308f\u304b\u308a\u3084\u3059\u3044\u5358\u8a9e\u5e33\u304c\u3002",
+					"\u6afb\u6728\u624b\u4e2d\u986f\u64fa\u8457\u7684\u6beb\u7121\u7591\u554f\u662f\u61c9\u8a66\u751f\u6240\u7528\u7684\u5c0f\u55ae\u8a5e\u672c\u3002",
 					null,
 					192,
 					{
@@ -11927,7 +11927,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12002,7 +12002,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12013,7 +12013,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -12028,7 +12028,7 @@
 				[
 					null,
 					null,
-					"\u3057\u304b\u3082\u3053\u306e\u3054\u6642\u52e2\u306b\u624b\u4f5c\u308a\u306e\u69d8\u76f8\u3060\u3002",
+					"\u800c\u4e14\u9084\u662f\u8207\u6642\u4ee3\u683c\u683c\u4e0d\u5165\u7684\u7d14\u624b\u5de5\u5236\u54c1\u3002",
 					null,
 					192,
 					{
@@ -12050,7 +12050,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12125,7 +12125,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12136,7 +12136,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -12151,7 +12151,7 @@
 				[
 					null,
 					null,
-					"\u3084\u308b\u6c17\u3082\u3059\u3054\u3044\u3057\u3001\u685c\u6728\u304c\u5358\u8a9e\u5e33\u3092\u6301\u3063\u3066\u3044\u308b\u30df\u30b9\u30de\u30c3\u30c1\u3055\u3082\u4f55\u3068\u3082\u8a00\u3048\u306a\u3044\u3002\u6848\u5916\u30e1\u30ac\u30cd\u306a\u3093\u304b\u3082\u4f3c\u5408\u3044\u305d\u3046\u3060\u3051\u3069\u306a\u3002",
+					"\u6afb\u6728\u5e79\u52c1\u6eff\u6eff\u7684\u6a23\u5b50\uff0c\u548c\u624b\u4e0a\u62ff\u8457\u55ae\u8a5e\u672c\u96d6\u8aaa\u6709\u7a2e\u8aaa\u4e0d\u51fa\u7684\u9055\u548c\u611f\uff0c\u4f46\u5979\u610f\u5916\u5730\u633a\u9069\u5408\u773c\u93e1\u5462\u3002",
 					null,
 					1216,
 					{
@@ -12173,7 +12173,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12248,7 +12248,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12259,7 +12259,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -12274,7 +12274,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u305d\u308c\u3067\uff1f\u3000\u30c6\u30b9\u30c8\u76f4\u524d\u306e\u8cb4\u91cd\u306a\u8ffd\u3044\u8fbc\u307f\u306e\u6642\u9593\u3092\u5272\u3044\u3066\u307e\u3067\u3001\u3069\u3046\u3057\u3066\u3053\u3093\u306a\u3068\u3053\u308d\u306b\uff1f\u300d",
+					"\u300c\u6240\u4ee5\uff1f \u4f60\u9084\u62bd\u51fa\u8003\u8a66\u524d\u9019\u9ebd\u5bf6\u8cb4\u7684\u6642\u9593\uff0c\u4f86\u9019\u7a2e\u5730\u65b9\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -12296,7 +12296,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12371,7 +12371,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12382,7 +12382,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -12410,12 +12410,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3072\u3068\u3064\u306f\u3042\u306a\u305f\u306b\u304a\u793c\u304c\u8a00\u3044\u305f\u304f\u3066\u300d",
+					"\u300c\u4e00\u662f\u60f3\u8ddf\u4f60\u9053\u500b\u8b1d\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0136"
@@ -12441,7 +12441,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12531,7 +12531,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12542,7 +12542,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -12572,7 +12572,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u3044\u3044\u3088\u4eca\u3055\u3089\u3002\u304a\u793c\u306a\u3089\u30b5\u30eb\u306b\u8a00\u3063\u3066\u304f\u308c\u300d",
+					"\u300c\u6c92\u95dc\u7cfb\u5566\u4e8b\u5230\u5982\u4eca\uff0c\u8981\u8b1d\u7684\u8a71\u53bb\u8b1d\u7334\u5b50\u5427\u300d",
 					null,
 					1728,
 					{
@@ -12594,7 +12594,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12669,7 +12669,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12680,7 +12680,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -12708,12 +12708,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u6c99\u6d41\u5ddd\u304f\u3093\uff1f\u3000\u306a\u3093\u3067\uff1f\u300d",
+					"\u300c\u6c99\u6d41\u5ddd\uff1f\u3000\u7232\u4ec0\u9ebd\uff1f\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0137"
@@ -12739,7 +12739,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12829,7 +12829,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12840,7 +12840,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -12870,7 +12870,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u305d\u308c\u306f\u4ffa\u306b\u3082\u308f\u304b\u3089\u306a\u3044\u300d",
+					"\u300c\u6211\u4e5f\u4e0d\u77e5\u9053\u300d",
 					null,
 					1728,
 					{
@@ -12892,7 +12892,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -12967,7 +12967,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -12978,7 +12978,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13006,12 +13006,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u4f55\u306a\u306e\u3088\u305d\u308c\u2026\u2026\u300d",
+					"\u300c\u90a3\u4f60\u8aaa\u4ed6\u5e79\u5565\u2026\u2026\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0138"
@@ -13037,7 +13037,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13127,7 +13127,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13138,7 +13138,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13168,7 +13168,7 @@
 				[
 					null,
 					null,
-					"\u5f37\u3044\u3066\u8a00\u3048\u3070\u3001\u4eca\u3055\u3089\u304a\u793c\u306a\u3093\u3066\u805e\u304d\u305f\u304f\u306a\u3044\u304b\u3089\u306a\u3093\u3060\u3051\u3069\u3002",
+					"\u975e\u8981\u8aaa\u7684\u8a71\uff0c\u662f\u56e0\u7232\u4e8b\u5230\u5982\u4eca\uff0c\u6211\u4e0d\u60f3\u807d\u4ec0\u9ebd\u9053\u8b1d\u7684\u8a71\u4e86\u3002",
 					null,
 					1216,
 					{
@@ -13190,7 +13190,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13265,7 +13265,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13276,7 +13276,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13306,7 +13306,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u304a\u793c\u306a\u3089\u524d\u3082\u805e\u3044\u305f\u6c17\u304c\u3059\u308b\u305e\u300d",
+					"\u300c\u611f\u8b1d\u7684\u8a71\u4f60\u597d\u50cf\u5df2\u7d93\u8aaa\u904e\u4e86\u5427\u300d",
 					null,
 					1728,
 					{
@@ -13328,7 +13328,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13403,7 +13403,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13414,7 +13414,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13442,12 +13442,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3060\u3068\u3057\u3066\u3082\u3082\u3046\u4e00\u5ea6\u8a00\u308f\u305b\u3066\u6b32\u3057\u3044\u306e\u300d",
+					"\u300c\u90a3\u6211\u4e5f\u8981\u518d\u8aaa\u4e00\u6b21\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0139"
@@ -13473,7 +13473,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13563,7 +13563,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13574,7 +13574,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13604,7 +13604,7 @@
 				[
 					null,
 					null,
-					"\u304a\u3044\u304a\u3044\u3053\u306e\u8a00\u3044\u5206\u3002",
+					"\u9935\u9935\u9935\u9019\u500b\u8aaa\u8fad\u3002",
 					null,
 					192,
 					{
@@ -13626,7 +13626,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13701,7 +13701,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13712,7 +13712,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13742,7 +13742,7 @@
 				[
 					null,
 					null,
-					"\u685c\u6728\u306e\u3084\u3064\u3001\u30c6\u30b9\u30c8\u52dd\u8ca0\u3092\u6311\u3093\u3067\u304d\u305f\u6642\u304b\u3089\u3001\u307e\u308b\u3067\u6210\u9577\u3057\u3066\u3044\u306a\u3044\u2026\u2026",
+					"\u6afb\u6728\u9019\u5bb6\u5925\uff0c\u5f9e\u63d0\u51fa\u6311\u6230\u90a3\u6642\u5230\u73fe\u5728\uff0c\u4eff\u4f5b\u6c92\u6709\u4efb\u4f55\u6210\u9577\u554a\u2026\u2026",
 					null,
 					192,
 					{
@@ -13764,7 +13764,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13839,7 +13839,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13850,7 +13850,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -13880,7 +13880,7 @@
 				[
 					null,
 					null,
-					"\u307e\u3001\u3060\u3051\u3069\u305d\u308c\u3092\u82e6\u7b11\u3057\u3066\u898b\u308c\u308b\u3093\u3060\u304b\u3089\u3001\u5225\u306e\u3069\u3053\u304b\u306f\u5909\u308f\u3063\u305f\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3002",
+					"\u4e0d\u904e\uff0c\u65e2\u7136\u5979\u80fd\u82e6\u7b11\u8457\u9762\u5c0d\u90a3\u4e8b\uff0c\u4f30\u8a08\u662f\u4ec0\u9ebd\u5730\u65b9\u767c\u751f\u8b8a\u5316\u4e86\u5427\u3002",
 					null,
 					1728,
 					{
@@ -13902,7 +13902,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -13977,7 +13977,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -13988,7 +13988,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14016,12 +14016,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u4e00\u5ea6\u8a00\u3063\u305f\u306a\u3089\u3001\u3057\u3064\u3053\u304f\u306a\u3063\u3061\u3083\u3046\u304b\u3089\u3053\u308c\u3060\u3051\u3002\u3042\u308a\u304c\u3068\u306d\u9cf4\u6d77\u304f\u3093\u300d",
+					"\u300c\u5982\u679c\u5df2\u7d93\u8aaa\u904e\u4e00\u6b21\u4e86\uff0c\u518d\u591a\u8aaa\u5c31\u5f88\u7169\u4eba\u4e86\uff0c\u6240\u4ee5\u6211\u53ea\u6700\u5f8c\u518d\u8aaa\u4e00\u6b21\u3002\u8b1d\u8b1d\u4f60\uff0c\u9cf4\u6d77\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0140"
@@ -14047,7 +14047,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14137,7 +14137,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14156,7 +14156,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14186,7 +14186,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u3059\u3067\u306b\u5145\u5206\u3057\u3064\u3053\u3044\u3088\u300d",
+					"\u300c\u9019\u65e9\u5c31\u8aaa\u7684\u5920\u591a\u4e86\u554a\u300d",
 					null,
 					1728,
 					{
@@ -14208,7 +14208,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14283,7 +14283,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14302,7 +14302,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14330,12 +14330,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u8fd4\u4e8b\u306f\uff1f\u300d",
+					"\u300c\u56de\u7b54\u5462\uff1f\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0141"
@@ -14361,7 +14361,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14451,7 +14451,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14470,7 +14470,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14500,7 +14500,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u3057\u304b\u3068\u53d7\u3051\u53d6\u3063\u305f\u300d",
+					"\u300c\u6211\u63a5\u53d7\u4f60\u7684\u8b1d\u610f\u300d",
 					null,
 					1216,
 					{
@@ -14522,7 +14522,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14597,7 +14597,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14616,7 +14616,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14646,7 +14646,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u3067\u3001\u3082\u3046\u3072\u3068\u3064\u306f\uff1f\u3000\u6700\u521d\u306b\u3072\u3068\u3064\u306f\u3001\u306a\u3093\u3066\u8a00\u3044\u65b9\u3092\u3057\u305f\u3093\u3060\u304b\u3089\u3001\u3075\u305f\u3064\u76ee\u3082\u3042\u308b\u3093\u3060\u308d\uff1f\u300d",
+					"\u300c\u90a3\u9ebd\uff0c\u53e6\u4e00\u500b\u5462\uff1f\u525b\u958b\u59cb\u8aaa\u4e86\u5176\u4e00\u5427\u3002\u6240\u4ee5\u9084\u6709\u5176\u4e8c\u6c92\u932f\u5427\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -14668,7 +14668,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14743,7 +14743,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14762,7 +14762,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14790,12 +14790,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u305d\u3046\u306d\u3002\u3060\u3051\u3069\u5fc5\u8981\u306a\u304b\u3063\u305f\u307f\u305f\u3044\u300d",
+					"\u300c\u662f\u554a\u3002\u4f46\u662f\u5df2\u7d93\u6c92\u6709\u8aaa\u7684\u5fc5\u8981\u4e86\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0142"
@@ -14821,7 +14821,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -14911,7 +14911,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -14930,7 +14930,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -14960,7 +14960,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\uff1f\u3000\u3069\u3046\u3044\u3046\u610f\u5473\u3060\uff1f\u300d",
+					"\u300c\uff1f\u3000\u5565\u610f\u601d\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -14982,7 +14982,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15057,7 +15057,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15076,7 +15076,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15104,12 +15104,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3042\u306e\u3054\u8912\u7f8e\u3060\u304b\u3089\u306d\u3002\u308f\u305f\u3057\u306b\u6c17\u3092\u9063\u3063\u3066\u3001\u308f\u3056\u3068\u8ca0\u3051\u305f\u308a\u3057\u306a\u3044\u3067\u3063\u3066\u91d8\u3092\u523a\u3057\u306b\u6765\u305f\u3093\u3060\u3051\u3069\u300d",
+					"\u300c\u90a3\u500b\u734e\u52f5\u554a\u3002\u6211\u662f\u4f86\u63d0\u9192\u4f60\u4e0d\u8981\u7232\u4e86\u6211\u6545\u610f\u653e\u6c34\u7684\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0143"
@@ -15135,7 +15135,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15225,7 +15225,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15244,7 +15244,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15272,12 +15272,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3075\u3075\u3001\u9cf4\u6d77\u304f\u3093\u3001\u76ee\u306e\u4e0b\u306e\u30af\u30de\u3059\u3054\u3044\u3093\u3060\u3082\u3093\u300d",
+					"\u300c\u54fc\u54fc\uff0c\u56e0\u7232\u9cf4\u6d77\u7684\u9ed1\u773c\u5708\u5f88\u91cd\u5462\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0144"
@@ -15303,7 +15303,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15393,7 +15393,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15412,7 +15412,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15442,7 +15442,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u30de\u30b8\u3067\uff1f\u3000\u30d5\u30a1\u30f3\u30c7\u3068\u3084\u3089\u3067\u96a0\u3057\u3066\u304f\u308c\u308b\u304b\uff1f\u300d",
+					"\u300c\u771f\u55ce\uff1f\u3000\u80fd\u7528\u7c89\u5e95\u4e4b\u985e\u7684\u5e6b\u6211\u906e\u4e00\u4e0b\u55ce\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -15464,7 +15464,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15539,7 +15539,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15558,7 +15558,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15586,12 +15586,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u7518\u3048\u306a\u3044\u306e\u3002\u3063\u3066\u304b\u3042\u306a\u305f\u305d\u3046\u3044\u3046\u306e\u5fc5\u8981\u306a\u3044\u3067\u3057\u3087\u300d",
+					"\u300c\u60f3\u5f97\u7f8e\u3002\u8a71\u8aaa\u4f60\u4e5f\u6c92\u90a3\u500b\u5fc5\u8981\u5427\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0145"
@@ -15617,7 +15617,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15707,7 +15707,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15726,7 +15726,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15756,7 +15756,7 @@
 				[
 					null,
 					null,
-					"\u8eab\u3060\u3057\u306a\u307f\u306b\u6c17\u3092\u9063\u308f\u306a\u3044\u7cfb\u7537\u5b50\u3060\u3068\u601d\u308f\u308c\u3066\u3044\u305f\uff01",
+					"\u88ab\u7576\u6210\u90a3\u7a2e\u4e0d\u4fee\u908a\u5e45\u7684\u7537\u751f\u4e86\uff01",
 					null,
 					1728,
 					{
@@ -15778,7 +15778,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -15853,7 +15853,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -15872,7 +15872,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -15900,12 +15900,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3042\u308a\u304c\u3068\u306d\u3002\u308f\u305f\u3057\u306e\u305f\u3081\u306b\u300d",
+					"\u300c\u8b1d\u8b1d\u4e86\u554a\uff0c\u7232\u4e86\u6211\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0146"
@@ -15931,7 +15931,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16021,7 +16021,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16040,7 +16040,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16070,7 +16070,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u2026\u2026\u3044\u3084\u300d",
+					"\u300c\u2026\u2026\u6c92\u4ec0\u9ebd\u300d",
 					null,
 					1728,
 					{
@@ -16092,7 +16092,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16167,7 +16167,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16186,7 +16186,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16214,12 +16214,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3042\u3068\u6700\u5f8c\u306b\u3082\u3046\u3072\u3068\u3064\u300d",
+					"\u300c\u9084\u6709\u6700\u5f8c\u4e00\u4ef6\u4e8b\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0147"
@@ -16245,7 +16245,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16335,7 +16335,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16354,7 +16354,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16384,7 +16384,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u307e\u3060\u3042\u308b\u306e\u304b\u3088\uff01\uff1f\u300d",
+					"\u300c\u9084\u6709\u554a\uff01\uff1f\u300d",
 					null,
 					1728,
 					{
@@ -16406,7 +16406,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16481,7 +16481,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16500,7 +16500,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16528,12 +16528,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u3053\u308c\u304c\u6700\u5f8c\u300d",
+					"\u300c\u6700\u5f8c\u4e00\u4ef6\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0148"
@@ -16559,7 +16559,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16649,7 +16649,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16668,7 +16668,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16698,7 +16698,7 @@
 				[
 					null,
 					null,
-					"\u305d\u3053\u3067\u685c\u6728\u306f\u3074\u3063\u3068\u59ff\u52e2\u3092\u6b63\u3059\u3068\u3001",
+					"\u7136\u5f8c\u6afb\u6728\u7a81\u7136\u64fa\u6b63\u4e86\u59ff\u52e2",
 					null,
 					1728,
 					{
@@ -16720,7 +16720,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16795,7 +16795,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16814,7 +16814,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -16842,12 +16842,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u4f8b\u3048\u9cf4\u6d77\u304f\u3093\u304c\u3069\u3093\u306a\u72b6\u614b\u3067\u3082\u3001\u5168\u529b\u3060\u308d\u3046\u304c\u624b\u3092\u629c\u3053\u3046\u304c\u95a2\u4fc2\u306a\u3044\u3002\u4eca\u56de\u306f\u308f\u305f\u3057\u304c\u52dd\u305f\u305b\u3066\u3082\u3089\u3046\u308f\uff01\u300d",
+					"\u300c\u4e0d\u7ba1\u9cf4\u6d77\u662f\u4ec0\u9ebd\u72c0\u614b\uff0c\u662f\u76e1\u5168\u529b\uff0c\u9084\u662f\u653e\u6c34\uff0c\u90fd\u6c92\u95dc\u7cfb\u3002\u9019\u6b21\u662f\u8d0f\u7684\u53ea\u6703\u662f\u6211\uff01\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0149"
@@ -16873,7 +16873,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -16963,7 +16963,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -16982,7 +16982,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17012,7 +17012,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u2026\u2026\u60b2\u3057\u3044\u300d",
+					"\u300c\u2026\u2026\u96e3\u53d7\u300d",
 					null,
 					1728,
 					{
@@ -17034,7 +17034,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17109,7 +17109,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17128,7 +17128,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17156,12 +17156,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u4f55\u304c\uff1f\u300d",
+					"\u300c\u4ec0\u9ebd\u554a\uff1f\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0150"
@@ -17187,7 +17187,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17277,7 +17277,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17292,7 +17292,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17322,7 +17322,7 @@
 				[
 					"\u5e78\u6a39",
 					null,
-					"\u300c\u3069\u3046\u3057\u3066\u305d\u3093\u306a\u306b\u7a4d\u6975\u7684\u306b\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306b\u884c\u304f\u3093\u3060\u304a\u524d\u306f\u300d",
+					"\u300c\u7232\u4ec0\u9ebd\u4f60\u7acb\u6b7b\u4ea1flag\u7acb\u5f97\u90a3\u9ebd\u719f\u7df4\u554a\u300d",
 					null,
 					1728,
 					{
@@ -17344,7 +17344,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17419,7 +17419,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17434,7 +17434,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17462,12 +17462,12 @@
 					}
 				],
 				[
-					"\u30a2\u30fc\u30b7\u30a7",
+					"\u4e9e\u745f",
 					null,
-					"\u300c\u2026\u2026\u305d\u306e\u304a\u7d04\u675f\u3068\u304b\u30c6\u30f3\u30d7\u30ec\u3068\u3084\u3089\u3092\u8599\u304e\u5012\u3057\u3066\u308f\u305f\u3057\u304c\u52dd\u3064\u308f\u300d",
+					"\u300c\u2026\u2026\u6211\u8981\u6253\u7834\u90a3\u6240\u8b02\u7684\u7d04\u5b9a\u4fd7\u6210\u53ca\u5957\u8def\uff0c\u7136\u5f8c\u53d6\u5f97\u52dd\u5229\u300d",
 					[
 						{
-							"name" : "\u30a2\u30fc\u30b7\u30a7",
+							"name" : "\u4e9e\u745f",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_ASH_0151"
@@ -17493,7 +17493,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17583,7 +17583,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17598,7 +17598,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17628,7 +17628,7 @@
 				[
 					null,
 					null,
-					"\u3061\u3087\u3063\u3068\u6c17\u306b\u3057\u3066\u3044\u308b\u3088\u3046\u3060\u3063\u305f\u3002",
+					"\u597d\u50cf\u9084\u662f\u6709\u9ede\u5728\u610f\u7684\u6a23\u5b50\u3002",
 					null,
 					192,
 					{
@@ -17650,7 +17650,7 @@
 										],
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17725,7 +17725,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17740,7 +17740,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -17770,7 +17770,7 @@
 				[
 					null,
 					null,
-					"\u88cf\u8fd4\u3057\u306e\u307e\u307e\u914d\u3089\u308c\u305f\u554f\u984c\u7528\u7d19\u3092\u524d\u306b\u3001\u4eca\u671d\u306e\u685c\u6728\u306e\u8a00\u8449\u3092\u601d\u3044\u51fa\u3059\u3002",
+					"\u8a66\u5377\u5012\u6263\u5728\u684c\u4e0a\uff0c\u6211\u56de\u60f3\u4e86\u8d77\u4eca\u65e9\u6afb\u6728\u8aaa\u7684\u8a71\u3002",
 					null,
 					208,
 					{
@@ -17784,7 +17784,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -17884,7 +17884,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -17899,7 +17899,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -17914,7 +17914,7 @@
 				[
 					null,
 					null,
-					"\u300e\u3042\u308a\u304c\u3068\u306d\u3002\u308f\u305f\u3057\u306e\u305f\u3081\u306b\u300f\u2026\u2026\u304b\u3002",
+					"\u300e\u8b1d\u8b1d\u4f60\uff0c\u7232\u4e86\u6211\u300f\u2026\u2026\u55ce\u3002",
 					null,
 					192,
 					{
@@ -17928,7 +17928,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18028,7 +18028,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18043,7 +18043,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18058,7 +18058,7 @@
 				[
 					null,
 					null,
-					"\u305d\u308c\u306f\u9055\u3046\u3002\u9055\u3046\u3093\u3060\u3088\u685c\u6728\u3002",
+					"\u4e0d\uff0c\u4e26\u4e0d\u662f\u554a\u6afb\u6728\u3002",
 					null,
 					192,
 					{
@@ -18072,7 +18072,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18172,7 +18172,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18187,7 +18187,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18202,7 +18202,7 @@
 				[
 					null,
 					null,
-					"\u305d\u3057\u3066\u304d\u3063\u3068\u3001\u3054\u8912\u7f8e\u306e\u305f\u3081\u3067\u3082\u306a\u3044\u3002",
+					"\u4f46\u662f\u4e5f\u80af\u5b9a\uff0c\u4e0d\u662f\u7232\u4e86\u90a3\u500b\u734e\u52f5\u3002",
 					null,
 					192,
 					{
@@ -18216,7 +18216,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18316,7 +18316,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18331,7 +18331,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18346,7 +18346,7 @@
 				[
 					null,
 					null,
-					"\u305f\u3060\u3001\u3042\u306e\u4eba\u304c\u4ffa\u304c\u52dd\u3064\u306e\u3092\u671b\u3093\u3067\u304f\u308c\u305f\u3002",
+					"\u53ea\u662f\uff0c\u90a3\u500b\u4eba\u5e0c\u671b\u6211\u8d0f\u3002",
 					null,
 					192,
 					{
@@ -18360,7 +18360,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18460,7 +18460,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18475,7 +18475,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18490,7 +18490,7 @@
 				[
 					null,
 					null,
-					"\u305d\u308c\u3060\u3051\u306e\u3053\u3068\u3067\u3001\u96c6\u4e2d\u3067\u304d\u306a\u3044\u30c6\u30b9\u30c8\u52c9\u5f37\u3092\u4ffa\u304c\u3069\u3053\u307e\u3067\u3084\u308c\u308b\u306e\u304b\u8a66\u3057\u3066\u307f\u305f\u304b\u3063\u305f\u3060\u3051\u3060\u3068\u601d\u3046\u3002",
+					"\u53ea\u662f\u7232\u4e86\u9019\u7a2e\u4e8b\uff0c\u5c31\u60f3\u8457\u8a66\u8a66\u7121\u6cd5\u96c6\u4e2d\u7cbe\u795e\u8907\u7fd2\u7684\u6211\u5230\u5e95\u80fd\u505a\u5230\u4ec0\u9ebd\u7a0b\u5ea6\u3002",
 					null,
 					192,
 					{
@@ -18504,7 +18504,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18604,7 +18604,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18619,7 +18619,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18634,7 +18634,7 @@
 				[
 					null,
 					null,
-					"\u2026\u2026\u3061\u3068\u7720\u3044\u3051\u3069\u7d50\u69cb\u9811\u5f35\u308c\u305f\u306e\u306f\u6e80\u8db3\u3060\u3063\u305f\u308a\u3057\u3066\u3002",
+					"\u2026\u2026\u6216\u8a31\u5979\u770b\u5230\u6211\u7565\u6709\u7761\u610f\uff0c\u4f46\u5df2\u52aa\u529b\u4e86\u7684\u59ff\u614b\uff0c\u5c31\u5df2\u7d93\u6eff\u8db3\u4e86\u5427\u3002",
 					null,
 					1728,
 					{
@@ -18648,7 +18648,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -18748,7 +18748,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18763,7 +18763,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -18776,12 +18776,12 @@
 					}
 				],
 				[
-					"\u7e01",
+					"\u7de3",
 					null,
-					"\u300c\u3088\u3057\u3001\u59cb\u3081\uff01\u300d",
+					"\u300c\u597d\uff0c\u958b\u59cb\uff01\u300d",
 					[
 						{
-							"name" : "\u7e01",
+							"name" : "\u7de3",
 							"pan" : 0,
 							"type" : 0,
 							"voice" : "02_YUK_0008"
@@ -18799,7 +18799,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										],
 										[
 											"xpos",
@@ -18932,7 +18932,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -18947,13 +18947,13 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"action" : 
@@ -18968,7 +18968,7 @@
 										]
 									],
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"redraw" : 
 									{
 										"disp" : 2,
@@ -18998,7 +18998,7 @@
 				[
 					null,
 					null,
-					"\u30c1\u30e3\u30a4\u30e0\u3068\u540c\u6642\u306e\u53f7\u4ee4\u3067\u3001\u5468\u308a\u304c\u4e00\u6589\u306b\u554f\u984c\u7528\u7d19\u3092\u3081\u304f\u308b\u3002",
+					"\u548c\u9234\u8072\u540c\u6642\u7684\u865f\u4ee4\u8072\u4e2d\uff0c\u5468\u570d\u7684\u6240\u6709\u4eba\u90fd\u540c\u6642\u628a\u8a66\u5377\u7ffb\u4e86\u904e\u4f86\u3002",
 					null,
 					192,
 					{
@@ -19012,7 +19012,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -19130,7 +19130,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -19146,7 +19146,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19196,11 +19196,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19248,7 +19248,7 @@
 				[
 					null,
 					null,
-					"\u3044\u3064\u3082\u901a\u308a\u306e\u73fe\u56fd\u306e\u554f\u984c\u3002",
+					"\u548c\u5f80\u5e38\u4e00\u6a23\u7684\u570b\u8a9e\u984c\u76ee\u3002",
 					null,
 					192,
 					{
@@ -19262,7 +19262,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -19380,7 +19380,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -19396,7 +19396,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19446,11 +19446,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19498,7 +19498,7 @@
 				[
 					null,
 					null,
-					"\u306a\u305c\u304b\u4eca\u56de\u306f\u5c11\u3057\u7dca\u5f35\u3059\u308b\u3051\u3069\u2026\u2026\u81ea\u5df1\u6e80\u8db3\u3060\u3051\u3067\u7d50\u679c\u304c\u4f34\u308f\u306a\u3044\u306e\u306f\u307f\u3063\u3068\u3082\u306a\u3044\u304b\u3089\u306a\u3002",
+					"\u4e0d\u77e5\u7232\u4f55\u9019\u6b21\u6709\u4e9b\u7dca\u5f35\u2026\u2026\u505a\u4e86\u90a3\u822c\u81ea\u6211\u6eff\u8db3\u7684\u4e8b\u537b\u6c92\u6709\u597d\u7d50\u679c\u4ec0\u9ebd\u7684\u592a\u4e1f\u4eba\u4e86\u3002",
 					null,
 					192,
 					{
@@ -19512,7 +19512,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -19630,7 +19630,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -19646,7 +19646,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19696,11 +19696,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19748,7 +19748,7 @@
 				[
 					null,
 					null,
-					"\u60aa\u3044\u306a\u685c\u6728\u3001\u52dd\u305f\u305b\u3066\u3082\u3089\u3046\u305c\u3002",
+					"\u5c0d\u4e0d\u8d77\u4e86\u6afb\u6728\uff0c\u6211\u8d0f\u5b9a\u4e86\u3002",
 					null,
 					192,
 					{
@@ -19762,7 +19762,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -19880,7 +19880,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -19896,7 +19896,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19946,11 +19946,11 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -19998,7 +19998,7 @@
 				[
 					null,
 					null,
-					"\u5f8c\u65e5\u3001\u8fd4\u5374\u3055\u308c\u305f\u73fe\u4ee3\u56fd\u8a9e\u306e\u30c6\u30b9\u30c8\u7d50\u679c\u306f\u2026\u2026",
+					"\u4e8b\u5f8c\u5f97\u5230\u7684\u570b\u8a9e\u8003\u8a66\u7d50\u679c\u2026\u2026",
 					null,
 					192,
 					{
@@ -20012,7 +20012,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -20108,7 +20108,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -20124,7 +20124,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20174,12 +20174,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20227,7 +20227,7 @@
 				[
 					null,
 					null,
-					"\u9cf4\u6d77\u5e78\u6a39\u3000\uff11\uff10\uff10\u70b9",
+					"\u9cf4\u6d77\u5e78\u6a39\u3000\uff11\uff10\uff10\u9ede",
 					null,
 					192,
 					{
@@ -20241,7 +20241,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -20337,7 +20337,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -20353,7 +20353,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20403,12 +20403,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20456,7 +20456,7 @@
 				[
 					null,
 					null,
-					"\u685c\u6728\u30fb\uff32\u30fb\u30a2\u30fc\u30b7\u30a7\u3000\uff19\uff18\u70b9",
+					"\u6afb\u6728\u30fb\uff32\u30fb\u4e9e\u745f\u3000\uff19\uff18\u9ede",
 					null,
 					192,
 					{
@@ -20470,7 +20470,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -20566,7 +20566,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -20582,7 +20582,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20632,12 +20632,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20685,7 +20685,7 @@
 				[
 					null,
 					null,
-					"\u7121\u4e8b\u3001\u685c\u6728\u306b\u52dd\u5229\u3057\u305f\u3002",
+					"\u6beb\u7121\u61f8\u5ff5\u5730\u8d0f\u4e86\u6afb\u6728\u3002",
 					null,
 					192,
 					{
@@ -20699,7 +20699,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -20795,7 +20795,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -20811,7 +20811,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20861,12 +20861,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -20914,7 +20914,7 @@
 				[
 					null,
 					null,
-					"\u3061\u306a\u307f\u306b\u6557\u8005\u306e\u685c\u6728\u306e\u5f01\u306f\u4ee5\u4e0b\u306e\u901a\u308a\u3002",
+					"\u9806\u4fbf\u6557\u8005\u6afb\u6728\u7559\u4e0b\u4f86\u4e86\u9019\u9ebd\u4e00\u53e5\u8a71\u3002",
 					null,
 					192,
 					{
@@ -20928,7 +20928,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -21024,7 +21024,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -21040,7 +21040,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21090,12 +21090,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21143,7 +21143,7 @@
 				[
 					null,
 					null,
-					"\u300c\u6b21\u306f\u304a\u7d04\u675f\u3068\u30c6\u30f3\u30d7\u30ec\u3068\u3084\u3089\u3082\u52c9\u5f37\u3059\u308b\u308f\u2026\u2026\u300d",
+					"\u300c\u4e0b\u6b21\u6211\u6703\u9023\u7d04\u5b9a\u4fd7\u6210\u9084\u6709\u5957\u8def\u4e5f\u4e00\u8d77\u5b78\u4e00\u904d\u7684\u2026\u2026\u300d",
 					null,
 					192,
 					{
@@ -21157,7 +21157,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -21253,7 +21253,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -21269,7 +21269,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21319,12 +21319,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21372,7 +21372,7 @@
 				[
 					null,
 					null,
-					"\u304a\u307e\u3048\u672c\u5f53\u306b\u8ca0\u3051\u305a\u5acc\u3044\u306a\u3002",
+					"\u4f60\u9084\u771f\u662f\u4e0d\u8a8d\u8f38\u554a\u3002",
 					null,
 					192,
 					{
@@ -21386,7 +21386,7 @@
 									[
 										[
 											"zpos",
-											233.33333333333337
+											233.33333300000001
 										]
 									],
 									"class" : "stage",
@@ -21482,7 +21482,7 @@
 								}
 							],
 							[
-								"\u30a2\u30fc\u30b7\u30a7",
+								"\u4e9e\u745f",
 								"character",
 								{
 									"action" : 
@@ -21498,7 +21498,7 @@
 									],
 									"class" : "character",
 									"link" : null,
-									"name" : "\u30a2\u30fc\u30b7\u30a7",
+									"name" : "\u4e9e\u745f",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21548,12 +21548,12 @@
 								}
 							],
 							[
-								"\u7e01",
+								"\u7de3",
 								"character",
 								{
 									"class" : "character",
 									"link" : null,
-									"name" : "\u7e01",
+									"name" : "\u7de3",
 									"showmode" : 0,
 									"type" : null
 								}
@@ -21599,7 +21599,7 @@
 					}
 				]
 			],
-			"title" : "\u30c7\u30b9\u30d5\u30e9\u30c3\u30ac\u30fc\u685c\u6728"
+			"title" : "\u6b7b\u4ea1\u63d2\u65d7\u624b\u6afb\u6728"
 		}
 	]
 }
